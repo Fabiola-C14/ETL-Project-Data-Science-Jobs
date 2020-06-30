@@ -19,9 +19,9 @@ Data was extracted into csv files, transformed (cleaned), and loaded to a databa
 
 ### Team Members Assigned Tasks: 
 
-* Andy Kwon: responsible for scrapping Indeed to retrieve data science roles and salaries..
+* Andy Kwon: responsible for scrapping Indeed to retrieve data science roles and salaries.
 * Wayne Tseng: responsible for scrapping Indeed to determine which companies have the highest demands for data science roles.
 * Fabiola Cartagena: responsible for scrapping Zillow to retrieve housing prices by location (cities).
 * Hyun Soo Kim: responsible for creating ERD, and loading data to postgreSQL.
 
-### Analysis
+### Analysis:
