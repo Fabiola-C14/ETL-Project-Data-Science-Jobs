@@ -1,51 +1,1196 @@
 location,company,title,salary
-,"Resolute Management, Inc.",Quantitative Analyst,"$50,000 - $60,000 a year"
-,Aldi,Data Analytics Specialist,"$62,000 a year"
-,First Notch Technology,Data Analyst with sql,$22 an hour
-,Aldi,Data Analytics Associate II,$26.25 an hour
-,Private,Data Analyst,$13 an hour
-,Integrated Services of Kalamazoo,Data Analyst,
-"Detroit, MI 48202 (New Center area)",DPSCD,"Program Associate I, Data Analyst",$64.50 an hour
-"Livonia, MI 48152",AccumTech,Data Analyst,"$55,000 - $85,000 a year"
-"Detroit, MI",VROOM,Data Analyst,
-"Detroit, MI 48216 (Briggs area)",MICHIGAN CONFERENCE OF TEAMSTERS WELFARE FUND,Claims Data Analyst Healthcare,$18 - $22 an hour
-"Newport Beach, CA",Lyceum Dynamics,Data Analyst,$40 - $50 an hour
-"Orlando, FL 32801 (Central Business District area)",Change Everything Inc.,Data Analyst Intern,
-"Bloomfield Hills, MI 48302",Common Ground,Data Analyst - Full-Time (Non-Exempt),
-"Detroit, MI",General Motors,Data Analyst for Enterprise Integration Intern,
+,Fluid Truck Share,Data Engineer,
+,Mindcolor Autism,Lead Board Certified Behavior Analyst (BCBA),
+,SPECTRUM,Network Operations Analyst II - Inventory Management,
+,SPECTRUM,Systems Engineer II - Application Analyst,
+"Lakewood, CO",MIRACORP,Business Data Analyst (Entry Level),
+"Denver, CO","Edison Software, Inc.",Data Analyst,
+"Lakewood, CO",Indian Health Service,GEOGRAPHIC INFORMATION SYSTEM ANALYST,"$47,421 - $91,234 a year"
+"Denver, CO 80202 (Lodo area)",FJA-US Inc.,Data Analyst,
+"Denver, CO",Indian Health Service,"Associate Education Research Scientist/Analyst, AD-1730-00","$72,000 - $101,000 a year"
+"Centennial, CO 80112",Comcast,"Data Analyst, CX Data & Analytics - Centennial, CO",
+"Denver, CO 80206 (Cherry Creek area)",Brilliant Earth,"Business Analyst, Denver",
+"Lakewood, CO",US Department of the Interior,GEOGRAPHIC INFORMATION SYSTEM ANALYST,"$47,421 - $91,234 a year"
+"Denver, CO 80203 (North Capitol Hill area)",State of Colorado Job Opportunities,Healthcare-Associated Infections Surveillance Data Analyst - 2452,"$58,764 - $86,004 a year"
+"Denver, CO 80206 (Cherry Creek area)",Brilliant Earth,"Analyst, Merchandising & Inventory Planning",
+,SPECTRUM,Senior Data Scientist,
+,A-1 Careers,GIS Analyst,
+,Millennium Hotels & Resorts,Financial Analyst,"$60,000 - $70,000 a year"
+,USAA,Deposits Product Management Analyst - Mid Level,
+,National Geospatial-Intelligence Agency,Source Strategies Analyst,"$100,027 - $153,659 a year"
+,USAA,Learning and Development Evaluation Analyst II,
+,USAA,Decision Science Analyst II,
+"Denver, CO 80206 (Cherry Creek area)",Brilliant Earth,"Financial Planning & Analysis Analyst, Denver",
+"Denver, CO 80202 (Union Station area)",Autodesk,Inside Sales Data Analyst,
+"Denver, CO",Indian Health Service,"Education Research Scientist/Analyst, AD-1730-00","$102,000 - $140,000 a year"
+"Colorado Springs, CO 80920 (Briargate area)",WOW!,Data Analyst,
+"Denver, CO 80216 (Five Points area)",CirrusMD,Data Analyst,
+"Denver, CO",Course5 Intelligence,Data Engineering and Data Science Resource,
+"Englewood, CO 80112",BOEING,Systems & Data Analyst,
+"Broomfield, CO",Danone,"Customer Collaboration, Data Scientist",
+"Denver, CO",xentity corporation,Data Analyst,
+"Englewood, CO 80112",LOCKHEED MARTIN CORPORATION,Procurement Data Analyst,
+"Aurora, CO",Kaiser Permanente,"Data Analytics, Senior Analyst",
+"Denver, CO 80202 (Union Station area)",DISH,Systems Business Analyst,
+"Denver, CO",Wakely Consulting Group LLC,Healthcare Data Analyst,
+"Lafayette, CO",Planterra Foods,SALES ANALYST,
+"Greenwood Village, CO 80111",Century Communities,IT Data Analyst,
+"Boulder, CO 80302 (Mapleton Hill area)",Gloo,Marketing Data Analyst,
+"Lakewood, CO",US Department of the Interior,PROGRAM ANALYST,"$70,181 - $109,358 a year"
+"Denver, CO 80204 (Civic Center area)",US Department of Education,"Associate Education Research Scientist/Analyst, AD-1730-00","$72,000 - $101,000 a year"
+"Denver, CO 80202 (Central Business District area)",Ibotta,Senior Data Quality Analyst,
+"Lakewood, CO",US Department of the Interior,MANAGEMENT AND PROGRAM ANALYST,"$100,027 - $130,039 a year"
+"Denver, CO 80202 (Lodo area)",FJA-US Inc.,"Business Analyst, Healthcare",
+"Greenwood Village, CO",ClientSolv Technologies,ColdFusion Development Data Analyst -Remote,
+"Denver, CO",Stantec,"Business Analyst, Oracle HR/HCM",
+"Greenwood Village, CO",ClientSolv Technologies,Remote ColdFusion Development Data Analyst,
+"Denver, CO",Disys,BIDW Business Analyst,$60 - $65 an hour
+"Boulder, CO 80301 (East Central area)",PopSockets,Business Intelligence Analyst,
+"Colorado Springs, CO 80917 (East Colorado Springs area)",Peak Vista Community Health Centers,Data Analyst II,
+"Westminster, CO",Aegis Premier Solutions,Conversion Data Analyst,
+"Longmont, CO 80501 (Pike area)",PharMerica,COLLECTIONS ANALYST,
+"Denver, CO 80206 (Congress Park area)",National Jewish Health,Bioinformatics Analyst I,
+"Denver, CO 80204 (Civic Center area)",US Department of Education,"Education Research Scientist/Analyst, AD-1730-00","$102,000 - $140,000 a year"
+"Colorado Springs, CO 80920 (Briargate area)",WOW!,Scheduling/Forecasting Analyst,
+"Louisville, CO 80027",GHX,Sr Data Analyst,
+"Lakewood, CO",US Department of the Interior,SENIOR MANAGEMENT AND PROGRAM ANALYST,"$118,202 - $153,659 a year"
+"Denver, CO",Franklin Energy,Inside Sales Analyst,
+"Broomfield, CO 80020",Vail Resorts,HR Technology Business Analyst,
+"Aurora, CO 80011 (Centretech area)","Attain, LLC",Business Analyst/Tester,
+"Denver, CO 80202 (Union Station area)",DaVita,Business Analyst - Compensation,
+"Denver, CO 80211 (Highland area)","Teliax, Inc.",Business Analyst II,
+"Denver, CO 80202 (Union Station area)","IMA Financial Group, Inc.",Account Analyst (Employee Benefits),
+"Glendale, CO",Computershare,UAT Analyst,
+"Denver, CO 80230 (Lowry Field area)",Innovage,Real Estate Analyst,
+"Denver, CO 80225",Sanborn Map Company,Geospatial Data Management Specialist,"$65,000 - $110,000 a year"
+"Boulder, CO",Splunk,Analyst - Global Partner Programs,
+"Denver, CO 80202 (Union Station area)",AirDNA,Data Scientist,
+"Longmont, CO",Maxar Technologies,Collection Planning Analyst,
+"Denver, CO 80237 (Hampden South area)",PHOENIX,TRID/Compliance/Post-Close Due Diligence Analyst,
+"Denver, CO 80246 (Southeastern Denver area)","Behavior Change Institute, LLC.",Board Certified Behavior Analyst (BCBA) Clinician (TeleHealth),
+"Denver, CO 80221 (Regis area)",Regis University,Business Intelligence Analytics Developer,"$53,000 - $58,000 a year"
+"Englewood, CO",Ipreo,"Analyst, Payroll Americas",
+"Greenwood Village, CO 80111",Tri-County Health Department,"EPI & Data Science Professional, COVID-19 Response",
+"Buckley AFB, CO",US Department of Defense,Source Strategies Analyst,"$100,027 - $153,659 a year"
+"Denver, CO",Cardinal Group Companies,Sr. Financial Planning and Analysis Analyst,
+"Denver, CO",American AgCredit,Portfolio Monitoring Analyst,
+"Louisville, CO 80027",Path2Response LLC,Data Acquisition Specialist,
+"Denver, CO",Paladina Health / Activate Healthcare,Sales Support Analyst,
+"Lakewood, CO",Black Knight Financial Services,Financial Data Analyst,
+"Colorado Springs, CO 80919 (Northwest Colorado Springs area)",Ent Credit Union,Financial Analyst I or II,"From $57,512 a year"
+"Denver, CO",University of Colorado Denver I Anschutz,BI Analyst/Developer,"$80,000 - $84,500 a year"
+"Boulder, CO",Viola AI,Data Scientist,
+,"Public Trust Advisors, LLC",Credit Research Analyst,
+,McLane Global,Data Analyst,"$65,000 - $85,000 a year"
+,CTG,Sr. Business Analyst,$55.00 - $62.50 an hour
+"Houston, TX",Microsolutiontek,Entry Level Business Analyst,"$60,000 - $70,000 a year"
+"College Station, TX 77840",Reynolds and Reynolds,Business Analyst,
+"Houston, TX 77040 (Fairbanks - Northwest Crossing area)",Reynolds and Reynolds,Data Analyst,
+"Houston, TX 77040",Premier Medical Resources,Accounts Receivable Analyst (Data Entry),
+"College Station, TX 77840",Texas A&M University,IT Business Analyst I,"$42,511 - $49,712 a year"
+"Houston, TX 77002 (Downtown area)",Harris County,"Data Analyst, Reporting",
+"Houston, TX 77002 (Downtown area)",FIS Global,Data Analyst II,
+"Houston, TX",Entera,Product and Data Analyst,
+"Houston, TX",HOLE Group,Data Analyst,
+"Houston, TX",132 ENG Inc.,Data Analyst,
+,First Service Credit Union,Credit Analyst,
+,Immatics US,Quality Control Analyst,
+,"Commercial Beverage Concepts, LLC",Warehouse Financial Analyst,"$110,000 - $120,000 a year"
+,Cordialsa USA,Jr. Trade Marketing Analyst,
+,"Biourja Power, LLC","Power Analyst - Houston, TX",
+,Ford & Sweeney Support Services,Risk Coordinator/Analyst Intermediate,$25 - $35 an hour
+"Houston, TX",GTS Geotech,Seismic Data Analyst,
+"Houston, TX 77032",GeoDigital,"Data Analyst (LiDar, Ortho/Imagery)",
+"Sugar Land, TX",PrimeFlight Aviation,HRIS Analyst,"$75,000 - $80,000 a year"
+"Houston, TX",Houston Exponential,Data Analyst,
+"Houston, TX 77098 (Greenway - Upper Kirby Area area)",The Potts Law Firm,Financial Analyst,
+"Houston, TX 77077 (Eldridge - West Oaks area)",Shellpoint Mortgage Servicing,Escrow Data Analyst I,
+"Houston, TX 77002 (Downtown area)",CenterPoint Energy,Associate Forecasting Analyst,
+"Houston, TX",Huntsman,Supply Chain Analyst,
+"Houston, TX",Rainbow Ceramics,Business Analyst,
+"Houston, TX 77002 (Downtown area)",TC Energy,Business Analyst,
+,Energy Transfer Family of Partnerships,Lead Specialist - IT Technical Business Analyst - NGL Commercial Applications,
+,Confidential,Inventory Cost Analyst,$20 - $25 an hour
+"Houston, TX",BNY Mellon,"Analyst, Data Mgmt / Quant Analysis",
+"Houston, TX 77002 (Downtown area)",Harris County,Senior Data Analyst,
+"Houston, TX","Two Sigma Investments, LLC.",Data Analyst,
+"Houston, TX 77042 (Westchase area)",Servient Inc,eDiscovery Data Analyst,
+"Houston, TX 77054 (South Main area)",Altus ACE,IT Business Analyst,"$65,000 - $80,000 a year"
+"Houston, TX 77046 (Montrose area)",Sunnova Energy Corp,Solar Performance Analyst,
+"Houston, TX",cPanel,Data Analyst,
+"Houston, TX 77027 (Greenway - Upper Kirby Area area)",Houston-Galveston Area Council,Data Analyst,
+"Houston, TX",Radiology Partners,Business Analyst - IT Data Warehouse,
+"Anahuac, TX 77514",Chambers County Public Hospital District No. 1,Healthcare Business Analyst,"$60,000 - $70,000 a year"
+"Houston, TX",CSL,Product Analyst I - Temporary,
+"Houston, TX 77007 (Rice Military area)",Service Corporation International,Business Analyst,
+"Houston, TX",National Oilwell Varco,Data Scientist,
+"Houston, TX",Phillips 66,"Analyst, Reporting & Position Control",
+"Friendswood, TX",Texas Gulf Bank,Process Analyst,
+"Houston, TX 77036 (Sharpstown area)","AAXY, LLC. dba Austin First Mortgage",Market Research Analyst,
+"Houston, TX 77001",Cognizant Technology Solutions,Informatica Data Quality Lead – Full-Time,
+"The Woodlands, TX",Talen Energy,Trade Control Analyst,
+"Houston, TX","City of Houston, TX",SENIOR STAFF ANALYST,"$88,500 - $104,000 a year"
+"Houston, TX 77002 (Downtown area)",Virtus Partners,Data Analyst I,
+"Huntsville, TX 77340",Sam Houston State University,Lecturer of Business Analysis,
+"Houston, TX",CBRE,"Business Analyst, Systems",
+"Houston, TX 77001",Thermo Fisher Scientific,Sales Analyst,
+"Richmond, TX 77469",Fort Bend County,I.T. Project / Business Analyst - Information Technology,
+"Houston, TX 77070",Purity Technology LLC,Data Warehouse Analyst,
+"Houston, TX 77054 (Astrodome Area area)",Harris Health System,Lead Quality Data Analyst,
+"Pearland, TX 77584",Kelsey-Seybold,Data Analyst & Healthcare Analytics,
+"Houston, TX 77002 (Downtown area)",DXC,Professional Business Analyst,
+"Houston, TX",Innovalus Technologies Inc,business analyst,
+"Houston, TX 77075 (South Belt - Ellington area)",McKinsey & Company,Solution Gas Analyst,
+"Houston, TX 77056 (Galleria-Uptown area)",Fiesta Mart | Fiesta Mart LLC,Space Analyst,
+"Houston, TX 77077 (Eldridge - West Oaks area)","Biourja Power, LLC","Power Analyst - Houston, TX",
+"Houston, TX",The University of Texas Health Science Center at H...,Benefits Analyst,
+"Missouri City, TX 77459",Texas ABA Therapy,Childcare Provider - Autism Program,$12 - $15 an hour
+"Houston, TX",Quorum Business Solutions,Product Analyst - Midstream & Gas Marketing Software,
+,Cornerstone Preferred Resources,Medical Claims Analyst,$19 - $24 an hour
+"Houston, TX 77030 (Medical Center Area area)",Baylor College of Medicine,Financial Analyst II,
+"Houston, TX",David Weekley Homes,Land Analyst,
+"Houston, TX","Metropolitan Transit Authority of Houston, Texas",Market Research Analyst,"$73,851 - $92,998 a year"
+"Houston, TX",Army Houston Recruiting Battalion,Data Collector/Analyst (Entry Level),
+"Houston, TX",Medline Industries Inc,Prime Vendor Analyst,
+"Houston, TX 77010 (Downtown area)",TD Bank,Houston - Investment Banking Analyst,
+"Houston, TX",GTS Geotech,GGRE Data Analyst/Technical Data Manager,
+"Houston, TX",Quorum Business Solutions,Product Analyst - Cost Accounting & Financials Software,
+"Houston, TX",Systemart LLC,Sales Quality Analyst (867372),
+,Gather Resources,Risk Analyst,$18 - $24 an hour
+,USAA,Business Intelligence Analyst II - Bank Leadership,
+,Idexcel,Big Data Engineer/Architect,
+,Unity Search,AR & AP Analyst (Job #103451),
+,Moneygram,DevOps Engineer,
+,Citi,Apps Dev Senior Programmer Analyst,
+,USAA,"Lead, Risk Analyst - Enterprise Operational Risk - IT",
+"Irving, TX",ZealNine,Data Analyst,"$50,000 - $60,000 a year"
+"Dallas County, TX","Dallas County, TX",DATA ANALYST,$21.53 an hour
+"Dallas, TX 75202 (City Center District area)",Trinity Industries,Data Analyst,
+"Dallas, TX 75201 (City Center District area)","TEKEDGE SOLUTION, INC.",Data Analyst,"$65,000 - $80,000 a year"
+"Plano, TX 75023",Toyota,Data Science Analyst,
+"Irving, TX",ADT Security Services,Data Analyst,"$50,000 - $65,000 a year"
+"Waco, TX 76712 (West Waco area)",Mars,IE Technician (Data Analyst focus),
+"Arlington, TX 76001 (Southwest area)",FirstAmerica,Senior Data Quality Analyst,
+"Dallas, TX 75202 (City Center District area)",Trinity Industries,Data Management Analyst,
+"Dallas, TX 75202 (City Center District area)",Trinity Industries,Market Intelligence Analyst,
+,USAA,Sr. Quantitative Risk Analyst - Credit Card Portfolio,
+,USAA,Reporting Analyst I (Enterprise Model Risk Management),
+,CommScope,Sales Analyst,
+"Fort Worth, TX 76118","SUNSET LOGISTICS, INC",Data/Financial Analyst,"$60,000 - $75,000 a year"
+"Irving, TX 75063 (Freeport/Hackberry area)",First American,Data Analyst,
+"Arlington, TX 76013 (Central area)",University of Texas at Arlington,Data Analyst {S02268P},
+"Frisco, TX",ITRGroup.com,Data Analyst,
+"Dallas, TX 75201 (City Center District area)","TEKEDGE SOLUTION, INC.",Business Analyst,"$65,000 - $80,000 a year"
+"Dallas, TX 75235 (Love Field area)",WalkerHealthcare,Data Entry Specialist,Up to $15 an hour
+"Dallas, TX 75202 (Main Street District area)",Special Counsel,Document Review Analyst - BS/BA or JD Required,$15 - $22 an hour
+"Frisco, TX 75034",Evolve Mortgage Services,Business Intelligence / Data Analyst,
+"Westlake, TX 76262",Advanced Plan for Health,Data Specialist,
+"Grand Prairie, TX","Meridian Technologies, Inc.",Business Analyst,$60 - $65 an hour
+,USAA,Quantitative Risk Analyst I - Credit Card Portfolio,
+,USAA,Risk Analyst I - Enterprise Risk & Projects,
+,Newport Medical Solutions,AR Analyst,$18 - $21 an hour
+,SHOEBACCA,Application Support Analyst II,"$45,000 - $52,000 a year"
+"Dallas, TX",InspiHER Tech,"DATA ANALYST/BI DEVELOPER, #10666","$60,000 - $70,000 a year"
+"Irving, TX",ADT Security Services,NA Data Reporting Analyst,
+"Lewisville, TX 75067",EZLynx,Data Conversion Specialist,
+"Dallas, TX",CDO Chief Digital Office,Data Analyst,
+"The Colony, TX",TXARNG,Cyber Security Analyst,$15 - $25 an hour
+"Dallas, TX",Mills College,Business Analyst,"$68,000 - $73,000 a year"
+"Plano, TX",LeadsOnline LLC,Data Import Analyst,
+"Plano, TX 75074",Community Hospital Corporation,Data Management Analyst,
+"Dallas-Fort Worth, TX",Potomac Management,Data Analyst III,
+"Plano, TX 75023",Liberty Mutual Insurance,"Senior Analyst or Consultant, Product Research","$95,400 - $136,900 a year"
+,CBRE,Senior Benefits Analyst,
+"Dallas, TX",The Richards Group,"Analyst, Data Intelligence",
+"Dallas, TX",Dash Technologies Inc,Data Analyst with Python,$40 - $55 an hour
+"Irving, TX",Dexperts,Data Analyst,
+"Dallas, TX 75247 (Northwest Dallas area)",Capgemini,DALLAS Campus Recruiting 2018 - I&D - Data Analyst,
+"Irving, TX",Michaels Stores,Space Planning Analyst,
+"Dallas, TX",fortisys,Data Analyst,
+"Dallas, TX",NS and Associates,340B Analyst,"$70,000 - $120,000 a year"
+"Plano, TX","PSG Support Services, LLC",Data Analyst,
+"Irving, TX 75062",HireMain LLC,Business Analyst,"$65,000 - $100,000 a year"
+"Dallas, TX",Signify Health,Data Quality Analyst,
+"Plano, TX 75075","Insight Enterprises, Inc.",Data Analyst II,
+"Dallas, TX",ZeniMax Media Inc.,Data Analyst,
+"Dallas, TX",Leidos Cyber,NOC Analyst (Network Operations Center) - Work Remotely,"$60,000 - $75,000 a year"
+"Dallas, TX 75390 (Near East area)",UT Southwestern Medical Center,Data Scientist,"$50,000 - $95,000 a year"
+"Plano, TX 75024",DXC,Helpdesk Analyst,
+"Dallas, TX 75201 (City Center District area)",Bestow,VP of Data,
+"Plano, TX 75024",Rent A Center Texas LP,Planning and Forecasting Analyst,
+"Plano, TX 75024",PepsiCo,eCommerce Data Science Intern,
+"Irving, TX 75063",Gather Resources,Risk Analyst,$18 - $24 an hour
+"Frisco, TX",MoneyGram,Data & Insights Manager – Customer Analytics,
+,"SUNSET LOGISTICS, INC",Data/Financial Analyst,"$60,000 - $75,000 a year"
+,Bloomfield Homes,Accounting/Data programming Associate,$13 - $25 an hour
+"Dallas, TX (Wolf Creek area)",Mobilityware,Senior Data Analyst,
+"Dallas, TX",UT Southwestern,"Population Science Data Analyst I, II and III - Data Science",
+"Arlington, TX 76013 (Central area)",University of Texas at Arlington,Business Analytics Analyst II (Data Concierge) (S02257P),
+"Grand Prairie, TX","LOFTWALL, Inc.",Operations Analyst,
+"Dallas, TX 75201 (Oak Lawn area)",Goldman Sachs,Data Science – Analyst/Associate - Security Incident Response Team,
+"Plano, TX",Course5 Intelligence,Business Intelligence Specialist,
+"Plano, TX 75023",Altice USA,HR Data Analyst,
+"Dallas, TX",HCL Americas,BUSINESS ANALYST,
+"Dallas, TX",CAE Inc.,Business Intelligence Analyst,
+"Richardson, TX 75082",RealPage,Data Analyst - Contract Renewals,
+"Plano, TX 75024",Vergent LMS,Software Quality Assurance Analyst,
+"Farmers Branch, TX 75234",Brinks Home Security™,Security Operations Analyst,"$70,000 - $80,000 a year"
+"Lewisville, TX",Mary Kay Inc,Analyst Supply Chain I Data Management,
+"Dallas, TX 75390 (Near East area)",UT Southwestern,Programmer Analyst I - IR-Enterprise Data Services,
+"Dallas County, TX","Dallas County, TX",GIS ANALYST I.8030200,"$4,155 a month"
+"Frisco, TX",HCL Technologies,Entry Level IT Support Analyst,"$35,000 - $45,000 a year"
+"Dallas, TX 75244",Behavioral Health Group,Revenue Data Analyst,
+"McKinney, TX 75070",Paine Insurance Group,Data Entry Team Member,
+,Citi,Client Service Sr. Analyst,
+,Public Health Institute,Data Analyst (Time-Limited),
+,Topcon Positioning Systems,Senior Business Analyst (Bilingual English and Japanese),
+,First Republic Bank,SOX BP Senior Analyst,
+"San Francisco, CA 94102 (Downtown area)",Intuit,Staff Business Data Analysis,
+"Sacramento, CA 95811 (Southside Park area)",Department of General Services,Data and Research Analyst,"$3,298 - $5,360 a month"
+"San Francisco, CA",Autodesk,Data Visualization Analyst,
+"San Francisco, CA",Showwcase,Data Analyst Intern,$16 an hour
+"San Francisco, CA",Chime,"Data Analyst, Product",
+"San Francisco, CA 94143 (Haight-Ashbury area)",University of California San Francisco,Research Data Analyst,
+"San Francisco County, CA",Department of Industrial Relations,RESEARCH DATA ANALYST I,"$3,635 - $5,629 a month"
+"San Francisco, CA",Mills College,Business Analyst,"$68,000 - $73,000 a year"
+"Sunnyvale, CA 94085",Cushman & Wakefield,Data Analyst,
+"Modesto, CA 95354",E.&J. Gallo Winery,ANALYST 2-MASTER DATA MGMNT | 202248,
+,SELLBYTEL,"Sr. Business Intelligence Analyst, Google Cloud",
+,UpNest,Product Analyst (Power BI),"$78,000 - $85,000 a year"
+"Oakland, CA",LaunchDarkly,Data Analyst,
+"San Francisco, CA","Evolver, LLC.",Market Data Services Analyst,
+"San Francisco, CA",Hinge Health,Data Analyst,
+"San Jose, CA 95123 (Blossom Valley area)",Polarr,Data Analyst,
+"San Francisco, CA",Incedo,Clinical Data Analyst,$65 - $70 an hour
+"San Francisco, CA 94103 (South of Market area)",Square,Sales Strategy Analyst,
+"San Francisco, CA 94129",Parker Institute for Cancer Immunotherapy,Biological Data Analyst,
+"San Francisco, CA",FLYR Inc,"Data Analyst, Data Warehouse","$90,000 - $115,000 a year"
+"San Francisco, CA",Autodesk,Business Analyst,
+"Salinas, CA 93901",Community Action Partnership of San Luis Obispo,Data Analyst,$14 - $19 an hour
+,"delta computer solutions, inc. www.deltacs.com",Systems Analyst - Behavioral Health (myAvatar),$45 - $65 an hour
+,Any QA,Software Development Engineer in Test (SDET) - Data Quality,"$115,000 - $135,000 a year"
+"San Francisco, CA",Autodesk,Product Analyst,
+"San Jose, CA 95112 (Downtown area)",Tommy Energy Solutions Corp.,Data Analyst,
+"West Sacramento, CA 95605",CalSTRS,Benefit Adjustment Team Analyst,"$3,298 - $5,360 a month"
+"San Francisco, CA",Mindstrong,Data Analyst,
+"San Francisco, CA 94104 (Financial District area)",Bailard,Real Estate Research & Performance Analyst,
+,"Association For Energy Affordability, Inc.",Energy Analyst,
+,"delta computer solutions, inc. www.deltacs.com",Epic Analyst - Whole Person Care,$40 - $70 an hour
+"Milpitas, CA 95035",decormatters,Data Engineering Intern,
+"San Francisco, CA 94108 (Chinatown area)",Academia.edu,PRODUCT DATA ANALYST,
+"San Francisco, CA 94133 (Financial District area)",Veem,Data Analyst,
+"San Francisco, CA",FocusKPI Inc.,Product Analyst,
+"San Francisco, CA 94143 (Haight-Ashbury area)",University of California San Francisco,Data Manager/ Evaluator,
+"San Francisco, CA 94143 (Haight-Ashbury area)",University of California San Francisco,Data Systems Analyst,
+"Mountain View, CA",TikTok,Data Analyst,
+"San Francisco, CA",Avila Trading,Data scientist,
+"San Francisco, CA",Ferreira Power Group,Project Controls Analyst,$36 - $52 an hour
+"Stanford, CA",Stanford University,Bioinformatician/Research Data Analyst 1,
+,GPS CAPITAL MANAGEMENT,Office Manager / Research Analyst,"$50,000 a year"
+"San Francisco, CA",Long Term Stock Exchange (LTSE),Financial Data Analyst,
+"San Francisco, CA 94107 (Central Waterfront - Dogpatch area)",Good Eggs,Senior Data Analyst,
+"San Francisco, CA",Motiv Power Systems,Data Analyst,
+"San Ramon, CA 94583","G2 Integrated Solutions, LLC",Business Analyst (Data Analyst/Data Scientist),
+"San Francisco, CA 94143 (Haight-Ashbury area)",University of California San Francisco,Institutional Research Analyst,
+"San Mateo, CA",Pill Club,Senior Data Analyst,
+"Burlingame, CA 94010",Acumen LLC,Data and Policy Analyst IV (4761836),
+"San Francisco, CA","Corus Group, LLC",Data Entry,
+"San Francisco, CA 94111 (Financial District area)",First Republic Bank,Loan Data Analyst,
+"San Francisco, CA",Dignity Health System Office,"Analyst, Investments",
+,Entelligence IT,Sr. Business Analyst - VMware,"$125,000 a year"
+,Idemitsu Renewables,Project Finance Analyst,
+"San Jose, CA 95131 (North San Jose area)",Zensar Technologies,BI Data Analyst,
+"San Francisco, CA 94102 (Tenderloin area)",GLIDE MEMORIAL CHURCH,Data Systems Analyst,$25 an hour
+"Brisbane, CA 94005","InfoIMAGE, Inc.",Business Analyst,
+"San Francisco, CA",Scaleapi,Business Data Analyst,
+"San Francisco, CA 94103 (South of Market area)",Uber,"Data Scientist, Legal Policy & Economics",
+"Rancho Cordova, CA 95670",Centene Corporation,Data Support Specialist,
+"San Francisco, CA 94104 (Financial District area)",BigCommerce,Data Engineer I,
+"Santa Clara, CA 95054",ServiceNow,Data Analyst,
+"San Francisco, CA",Facebook,"Analyst - Instagram, Partnerships Science",
+"Mountain View, CA 94041",Frequence,Operations Analyst,
+"San Mateo, CA",Indian Health Service,Entry Level Program Analyst (Audit Evaluator),"$37,301 - $59,316 a year"
+"Oakland, CA",Sutter Health,Enrollment & Student Services Data & Systems Operations Analyst,
+"Burlingame, CA 94010",Acumen LLC,Data and Policy Analyst - Statistical Programmer,
+"Oakland, CA 94607 (Acorn-Acorn Industrial area)",University of California Office of the President,ITS Data Services Intern (4920),$20 an hour
+"Silicon Valley, CA",BrainyPro,Data Analyst – Spotfire,
+"Berkeley, CA 94720","Cal Alumni Association, UC Berkeley",Associate Business Analyst,"$55,000 - $60,000 a year"
+"Menlo Park, CA",Facebook,Data Analyst – People Data Solutions,
+"Livermore, CA 94550","Wiley X, Inc",Data Processing Intern,$13 an hour
+"Santa Cruz, CA 95060","Fullpower Technologies, Inc.",Data Science Intern,
+"San Francisco, CA",California State University,Operations Analyst,"$50,400 - $55,200 a year"
+"San Francisco, CA",Spin,"Senior Analyst, People Analytics & Projects",
+"Fremont, CA",Tesla,"Business Analyst, Remarketing",
+"San Francisco, CA",Life360,Senior Data Analyst,
+"Seaside, CA 93955",Serry Systems,Entry Level Business Analyst,
+"San Francisco, CA",Spin Electric Scooters,"Senior Analyst, People Analytics & Projects",
+,MUFG,Project Regulatory/Risk Data Analyst,
+,MUFG,Sr Data Analyst,
+"Phoenix, AZ 85027 (Deer Valley area)",Southwest Service Administrators,Data Analyst - AZ,
+"Tempe, AZ",Circle K,Analyst (Global Data and Analytics),
+"Phoenix, AZ 85008 (Central City area)","XRF USA International, Inc.",Business Data Analyst,"$28,000 - $40,000 a year"
+"Phoenix, AZ 85004 (Central City area)",Gatestone & Co. Inc,Data Analyst,$14.50 an hour
+"Phoenix, AZ",State of Arizona,Senior Data Analyst,Up to $29.33 an hour
+"Phoenix, AZ",Arizona State University,Data Programmer/Analyst,"$70,000 - $75,000 a year"
+"Phoenix, AZ 85012 (Encanto area)",Banner Health,Legal Associate Analyst,
+"Phoenix, AZ",US Department of Homeland Security,Management and Program Analyst,"$45,627 - $120,868 a year"
+"Phoenix, AZ",TransPerfect Translations Inc.,Language Researcher / Data Analyst,
+"Phoenix, AZ 85034 (Central City area)","RevolutionParts, Inc.",Data Analyst,
+,MUFG,Data Analyst,
+,"Daman, Inc.",Data Engineer,"$100,000 - $130,000 a year"
+"Tempe, AZ",Amazon.com Services LLC,Risk Specialist,
+"Phoenix, AZ",3Qi Labs,"QA Analyst – Phoenix, AZ","$45,000 a year"
+"Phoenix, AZ 85028 (Paradise Valley area)",Pyramid,Purchasing Analyst,$20 - $24 an hour
+"Phoenix, AZ 85018 (Camelback East area)",Shamrock Foods,Supply Chain Analyst,
+"Phoenix, AZ 85007 (Central City area)",State of Arizona,ASIIS Enhancement Support Analyst,"Up to $60,000 a year"
+"Gilbert, AZ",Gilbert Public Schools,Programmer Analyst,
+"Scottsdale, AZ",Discount Tire Corporate Careers,Functional Analyst II,
+"Phoenix, AZ","Berkeley Research Group, LLC",Health Analytics Data Scientist,
+"Phoenix, AZ 85004 (Central City area)",Scientific Technologies Corporation,Business Intelligence Analyst,
+"Chandler, AZ 85248",Northrop Grumman,Material Estimating Analyst,
+,USAA,Quantitative Risk Analyst - Advanced Level,
+,Sonoran Plumbing Supply,Pricing Analyst,"$30,508 - $50,518 a year"
+"Glendale, AZ 85301","City of Glendale, AZ",GIS Analyst,"$57,241 - $85,862 a year"
+"Tempe, AZ 85284",TransPerfect,Data Breach Notification Review (AZ),$18 an hour
+"Phoenix, AZ 85007 (Central City area)",vtech Solutions,Business Analyst,Up to $55 an hour
+"Phoenix, AZ 85007 (Central City area)",State of Arizona,OVERSIGHT IT ANALYST,"$65,000 - $75,000 a year"
+"Phoenix, AZ",Phoenix Children's Hospital,Scheduling System Analyst,
+"Tempe, AZ 85281",State Farm,Analyst - Digital Analytics,
+"Phoenix, AZ 85085 (North Gateway area)",COVETRUS INC,Inventory Control Analyst,
+"Phoenix, AZ 85004 (Central City area)",Scientific Technologies Corporation,Data Scientist / Data Modeler,
+"Phoenix, AZ 85054 (Desert View area)",Sprouts Farmers Market,Enterprise Analytics Analyst,
+"Tempe, AZ",Anju Software,Senior Business Analyst,"$100,000 - $110,000 a year"
+"Glendale, AZ 85318",CSAA Insurance Group,IT Data Protection Analyst,
+"Phoenix, AZ",Desert Financial Credit Union,Incentive Analyst,
+"Phoenix, AZ",Desert Financial Credit Union,Data Warehouse Analyst II-ST,
+"Tempe, AZ",OPULENTSOFT,Lead Data Engineer/ Data Analyst,
+"Tempe, AZ 85281",MUFG,"Network Security System/Data Analyst, Analyst / Officer",
+"Phoenix, AZ 85007 (Central City area)",Arizona Supreme Court,Jr. Business Analyst V (Job 2299),"$52,990 a year"
+"Tempe, AZ 85281",MUFG,Risk Data and Reporting Specialist,
+"Prescott, AZ 86301",Yavapai College,Programmer Analyst,"$53,913 - $76,070 a year"
+"Tempe, AZ",TransPerfect Translations Inc.,Language Data Analyst - Spanish and English Speakers,
+"Phoenix, AZ 85007 (Central City area)",State of Arizona,EMPLOYEE RELATIONS ANALYST SENIOR,"$55,000 - $64,000 a year"
+,USAA,Business Support Analyst Senior - QA Oversight,
+"Scottsdale, AZ",CVS Health,Senior Analyst - Client Data,
+"Tempe, AZ 85281",MUFG,Project Regulatory/Risk Data Analyst,
+"Scottsdale, AZ 85254 (Paradise Valley area)",Sunrun,Sr. Training Analyst,
+"Scottsdale, AZ",National Education Partners,"Data Analyst, Marketing",
+"Tempe, AZ 85281","DriveTime Automotive Group, Inc.",IT Business Analyst,
+"Phoenix, AZ 85008 (Camelback East area)",2060 Digital,Digital Campaign Analyst,"$40,000 - $50,000 a year"
+"Tempe, AZ 85281","DriveTime Automotive Group, Inc.",Strategic Planning Analyst,
+"Phoenix, AZ 85016 (Camelback East area)",Telesoft LLC dba MDSL,Business Analyst,
+"Phoenix, AZ",Desert Financial,Incentive Analyst,
+"Scottsdale, AZ",Discount Tire Corporate Careers,Senior Data Analyst,
+"Tempe, AZ",American Vision Partners,Business Development Analyst,
+"Phoenix, AZ (Camelback East area)",ON Semiconductor,Entry Level Treasury Analyst,
+"Phoenix, AZ",University of Phoenix,Regulatory Records & Policy Analyst,
+"Tempe, AZ",Amazon.com Services LLC,Quality Assurance Analyst (Call Center) - Ring,
+"Glendale, AZ",Mark Anthony Brewing Inc.,Supply Chain Analyst,
+"Phoenix, AZ 85021 (North Mountain area)",State of Arizona,SENIOR SERVICE DESK ANALYST,$19.22 - $24.00 an hour
+"Phoenix, AZ",University of Phoenix,Procure to Pay Analyst,
+"Phoenix, AZ",University of Phoenix,Business Analyst Ops R & A,
+"Scottsdale, AZ",Discount Tire Corporate Careers,Senior Data Engineer,
+"Phoenix, AZ","Virtelligence, Inc",Epic Willow Analyst,
+"Scottsdale, AZ",loanDepot,Customer Experience Analyst,
+"Phoenix, AZ 85053 (Deer Valley area)",TriWest Healthcare Alliance,Sr Workload Reporting Analyst,
+"Phoenix, AZ",Gould Intelligent,IT Business Analyst,
+"Chandler, AZ 85226",Infotree Service Inc,System Analyst/Data Analyst/ Data Governance Analyst/ Collibra,
+"Deer Valley, AZ",First American,Digital Marketing Analyst,
+"Tempe, AZ 85281",MUFG,Data Quality (DQ) Problem Management Analyst,
+"Phoenix, AZ 85021 (North Mountain area)",Blue Cross Blue Shield of Arizona,Master Data Management Analyst,
+"Phoenix, AZ 85003",UnitedHealth Group,"Senior Business Analyst, Optum Care Analytics",
+"Mesa, AZ 85201 (Northwest area)",COPA Health,Data & Analytics Manager,
+"Phoenix, AZ 85085 (North Gateway area)",COVETRUS INC,Senior Business Analyst,
+"Auburn, WA",MIRACORP,Business Data Analyst (Entry Level),
 "Bellevue, WA",Streams Inc,Data Analyst,
-"Detroit, MI 48226 (Downtown area)",Quicken Loans,Data Solutions Analyst,
-,"Michigan Planners, Inc.",Employee Benefits Plan Analyst,
-,Maschmeyer Concrete Company of Florida,Data Analyst,
-,JND Legal Administration,Data Analyst,"$60,000 - $80,000 a year"
+"Seattle, WA",Hash Technologies,Business/Data Analyst,
+"Seattle, WA",Abbott Construction,Data Analyst,
+"Seattle, WA",University of Washington,DATA ANALYST,
+"Seattle, WA 98104 (Pioneer Square area)",Dolphin,Business Analyst,"$90,000 - $120,000 a year"
+"Olympia, WA 98502",Thurston County,"Administrative Support, Accounting and Data Analyst Positions - COVID-19 Response Support",$24.00 - $29.50 an hour
+"Bellevue, WA 98004 (Downtown area)",System1,"Sr. Data Analyst, Consumer Applications",
+"Seattle, WA 98101 (Downtown area)",WaFd Bank,IT Data Analyst,
+"Shoreline, WA",CDC Foundation,EPIDEMIOLOGIST - DATA ANALYST - WASHINGTON,$27 - $33 an hour
+,"IT Partners,Inc",Data Scientist,
+,Lakefield Veterinary Group,Pricing Analyst,$20 - $25 an hour
+,American Capital Group,Investment Analyst,"$80,000 - $85,000 a year"
+,"CAF, INC.",Sales Operations Analyst,
+"Seattle, WA",Amazon.com Services LLC,Payments Business Analyst,
+"Redmond, WA",Rational,Data Analyst,
+"Bellevue, WA",GOCOOL,Data Analyst,
+"Capitol Hill, WA",Trendency Research,Data Manager,
+"York, WA",Color Of Change PAC,Political Data Director,
+"Seattle, WA",City of Seattle,Policy and Statistical Analyst,"$85,629 - $128,433 a year"
+"Seattle, WA 98121 (Denny Triangle area)",PATH,"Data Analyst, Malaria Control and Elimination Partnership in Africa (MACEPA)",
+"Bellevue, WA",Southern Glazer’s Wine and Spirits,Incentive Analyst,
+"Redmond, WA",Microsoft,Data Analyst,
+"Bellevue, WA",RedCloud Consulting,Data & Business Analysts,
+,"SRSM, Inc.",Business Systems Analyst/End User Support,
+,Bristol-Myers Squibb,"Logistics Analyst, Global Cell Therapy",
+,Costco Wholesale,Treasury Systems Analyst,
+"Seattle, WA",Linksbridge,Data Scientist,
+"Seattle, WA 98101 (Downtown area)",The West River Group,Investigative Support Analyst (ISA I-A),$27.43 an hour
+"Seattle, WA",Remitly,Business Analyst,
+"Seattle, WA 98108 (North Beacon Hill area)",Veteran Affairs,Health Sciences Research Data Programmer/Analyst,"$81,404 - $92,155 a year"
+"Seattle, WA",Course5 Intelligence,Sr. Market Research Analyst,
+"Seattle, WA 98119 (Queen Anne area)",Expedia Group,BFS Analyst,
+"Redmond, WA 98052 (Overlake area)",Nayamode,Power BI/data Analyst,
+"Bellevue, WA 98004 (Downtown area)",System1,"Sr. Data Analyst, Ad Operations",
+"Seattle, WA 98104",C2S Technologies,POS Support Analyst,
+"Redmond, WA",Microsoft,Full Time Opportunities for PhD Students or Recent Graduates: Data & Applied Sciences,
+"Redmond, WA 98052 (SE Redmond area)",User Research International,Market Research Analyst,"$60,000 - $70,000 a year"
+"Bellevue, WA 98006 (Factoria area)",Subex,Business Analyst - Revenue Assurance,
+"Seattle, WA",Accelalpha,Production Control Analyst,$50 - $65 an hour
+"Redmond, WA",Highbrow LLC,Data Analyst,
+"Seattle, WA",Linksbridge,Copywriter/Industry Analyst,
+"Redmond, WA",Highbrow LLC,Data Analyst – SQL / Big Data,
+"Seattle, WA",Pythonwise,BUSINESS ANALYST,
+"Seattle, WA 98104 (Pioneer Square area)",doxo,Data Analyst | Engineer - Paid Marketing,
+"Redmond, WA",Highbrow LLC,SQL Developer / Data Analyst,
+"Bellingham, WA 98225 (Columbia area)",toolhouse,Marketing and Business Intelligence Analyst,
+"Seattle, WA",Amazon.com Services LLC,Business Analyst - Fire tablets,
+"Seattle, WA 98194 (Downtown area)",Providence Health & Services,Data Analyst Lumedic,
+"Seattle, WA",Infotree Service Inc,Data Governance Analyst / Coordinator,
+"Seattle, WA",Amazon.com Services LLC,Business Analyst,
+"Seattle, WA 98104 (International District area)","Paula's Choice, LLC","SENIOR DATA ANALYST, SUPPLY CHAIN",
+,DigniFi,Director of Business Intelligence and Analytics,
+"Sequim, WA 98382",Batson Enterprises Inc.,Data Entry Clerk,$15 an hour
+"Redmond, WA 98052",Zen3 Info Solutions,SEO/ Data analyst,
+"Fort Lewis, WA",Northrop Grumman,Intel Analyst INSCOM - OSINT Instructor,
+"Redmond, WA",Neal Analytics,IT Helpdesk Analyst,$25 an hour
+"Seattle, WA 98104",Seiu Local 775,Research Analyst,
+"Seattle, WA","Amazon Web Services, Inc.",Custom Billing Analyst,
+"Seattle, WA",CBRE,Energy Analyst,
+"Seattle, WA 98119 (Queen Anne area)",Infotree Service Inc,Data Analyst,
+"Seattle, WA",Ars Quanta,Data Scientists,
+"Seattle, WA",f5,Data Quality Analyst,
+,IEH Laboratories,"Laboratory Analyst - 12hr Rotating Night Shift (Cashmere, WA)",
+"Seattle, WA 98119 (Queen Anne area)",Infotree Service Inc,Analyst / Data Analyst/ Reporting Analyst / Project Coordinator / Data Specialist,
+"Bellevue, WA",axantis,Customer Support – Business Analyst Se,
+"Bellevue, WA",OfferUp,Senior Risk Data Analyst (Bellevue),
+"Redmond, WA 98052",Course5 Intelligence,Market Research Data Analyst,
+"Seattle, WA",SCRUMPOINT,Business Intelligence Analyst,
+"Redmond, WA",BiSoft,Systems Data Analyst,"$85,000 a year"
+"Seattle, WA",Amazon.com Services LLC,Sr. Business/Data Analyst,
+"Seattle, WA 98122 (Central District area)",Johns Hopkins University,Sr. Research Data Analyst,"$52,495 - $72,210 a year"
+"Seattle, WA",US Department of Veterans Affairs,Management and Program Analyst,"$107,807 - $170,800 a year"
+"Seattle, WA 98109 (South Lake Union area)",Allen Institute,Scientist I – Neural Data Analysis,
+,T-Mobile,Sr Business Analysis Manager,
+"Kirkland, WA 98034",Ziply Fiber,Marketing and Enterprise Data Analyst,
+"Redmond, WA 98052 (Rose Hill area)",Aerojet Rocketdyne,Data Reduction Analyst,
+"Seattle, WA","Amazon Data Services, Inc.",Outposts Business Analyst,
+"Maple Valley, WA 98038","CAF, INC.",Sales Operations Analyst,
+"Redmond, WA",BiSoft,Business Analyst,"$90,000 a year"
+"Enumclaw, WA 98022",Crystal Mountain Inc,Business Analyst,
+"Tacoma, WA 98402 (Newtacoma area)",Golden Tech Systems,Data Analyst,
+"Redmond, WA 98052 (SE Redmond area)",Pushpay,Business Analyst,
+"Bellevue, WA 98004 (Downtown area)",Akraya Inc.,Business Analyst III : 20-01734,
+"Puget Sound, WA",National Capitol Contracting (NCC),Junior Data Management Analyst (JDMA),
+,Native American Rehabilitation Association (NARA),Billing Data Analyst,
+"Portland, OR",Course5 Intelligence,Project Manager- Data Analyst,
+"Washington County, OR",Public Health Institute,Data Analyst,
+"Portland, OR","Multnomah County, OR",Research Evaluation Analyst I - Data Collector,$23.23 - $28.43 an hour
+"Portland, OR 97204","Go, Inc.",Data Analyst,"$50,000 - $65,000 a year"
+"Portland, OR (Downtown area)",Google,Operations and Accounting Data Center Analyst,
+"Sisters, OR 97759",Laird Superfood,Data Analyst,
+"Corvallis, OR 97330",HP,3D Engineering / Data Science Developer Intern,
+"Albany, OR 97321",Community Services Consortium,Data/Systems Analyst # 456592,"$3,742 a month"
+"Portland, OR 97209 (Pearl District area)",Airship,Data Analyst,
+"Beaverton, OR 97005 (Central Beaverton area)",ProFocus,Data Analyst - 0369,
+"Vancouver, WA",ZoomInfo,Data Analyst,
+"Vancouver, WA",Zoom Information Inc.,Data Analyst,
+"Hillsboro, OR 97124",Edwards Ltd,"Global Account Data Analyst ( Hillsboro, OR)",
+"Kelso, WA 98626",ALS Environmental,Wet Chemistry Analyst,
+"Portland, OR 97204 (Downtown area)",LegitScript,Risk Analyst,"$45,000 - $50,000 a year"
+"Beaverton, OR 97005 (Central Beaverton area)",FlexIT Inc,Data Quality Analyst,
+"Salem, OR 97302 (South Central area)",Department of Human Services,Fiscal Analyst 3/Senior Fiscal Analyst,"$4,957 - $7,259 a month"
+"Portland, OR 97217 (Humboldt area)",Department of Human Services,Program Analyst,"$4,729 - $6,921 a month"
+"Vancouver, WA 98660 (Esther Short area)",City of Vancouver,Employee & Labor Relations Analyst,"$77,868 - $101,232 a year"
+"Beaverton, OR",Nike,Director of Architecture - Consumer Data Analytics,
+"Portland, OR 97204 (Downtown area)",Moda Health,Pharmacy Data Analyst III,
+"Portland, OR",The Freshwater Trust,Senior Data Scientist,
+"Beaverton, OR",Nike,Business Analyst - APLA CaSA,
+"Portland, OR",U.S. Army,Intelligence Analyst,"$4,378 - $4,892 a month"
+"Portland, OR",RAPS IT CONSULTING,Data Engineer,
+,OIA Global,HCMS Business Systems Analyst,
+,Portland Public Schools,Senior Finance Systems Analyst,"$81,620 - $97,459 a year"
+"Portland, OR 97204 (Downtown area)",New Relic,Senior Data Analyst,
+,OmniData Insights,Data Engineer,
+,Atlas Management,Development Analyst,"$45,000 - $50,000 a year"
+,The Standard,Disability Benefits Analyst,
+"Portland, OR",Skillz Inc.,Strategy Analyst,
+"Beaverton, OR 97006 (Five Oaks - Triple Creek area)","Genesis Financial Solutions, Inc.",Reporting Analyst,
+"Beaverton, OR 97006 (Five Oaks - Triple Creek area)","Genesis Financial Solutions, Inc.",Jr. Risk Analyst,
+"Portland, OR 97204 (Downtown area)",American Standard,Marketing Analyst,
+"Portland, OR 97205 (Goose Hollow area)",Native American Rehabilitation Association (NARA),Billing Data Analyst,
+"Portland, OR 97217 (Arbor Lodge area)",VA Portland Health Care System,Health Services Research Analyst,"$68,309 - $81,875 a year"
+"Portland, OR",Schrödinger,Data Scientist,
+"Hillsboro, OR 97006 (Triple Creek area)",Thermo Fisher Scientific,Service Contracts Analyst,
+"Vancouver, WA",The Home Depot,HDQC Business Analyst,
+"Portland, OR 97230 (Russell area)",University of Western States,Application Analyst,
+,BICP,Sr. Data Engineer,"$120,000 - $140,000 a year"
+"Vancouver, WA 98683 (Bennington area)",Banfield Pet Hospital,Lead Data & Analytics Mars Vet Health,
+"Portland, OR",Autodesk,Senior Payroll Operations Analyst (Remote),
+"Beaverton, OR",Nike,Strategic Enterprise Capabilities â€“ Lead Business Analyst,
+"Portland, OR","Azad, inc.","Technical Business Analyst Portland, OR",
+"Headquarters, WA",H&E Equipment Services,Purchasing Analyst,
+"Vancouver, WA 98660 (Carter Park area)","Salient CRGT, Inc",Business Analyst 3- JP 9544,
+"Beaverton, OR 97005 (Central Beaverton area)",FlexIT Inc,Business Analyst / Product Analyst,
+"Wilsonville, OR",Tanisha Systems Inc.,SAP MM/PP Business Analyst,"$80,000 - $100,000 a year"
+"Portland, OR 97232 (Lloyd area)",PacifiCorp,Sr Business Analyst,
+"Wilsonville, OR",Hash Technologies,SAP MM/PP Business Analyst,
+"Hillsboro, OR 97006 (Triple Creek area)",Thermo Fisher Scientific,Senior Business Intelligence Analyst,
+"Portland, OR 97204 (Downtown area)",Moda Health,Actuarial Analyst - Group Pricing,
+"Portland, OR",The Gunter Group,Business Analyst,
+"Portland, OR 97240 (Hosford area)",Providence Health & Services,Cancer Clinical Information Analyst,
+"Portland, OR 97204 (Downtown area)",LegitScript,Bilingual German-English Analyst,"$45,000 - $50,000 a year"
+"Beaverton, OR",Optizm Global.,Data/Information Architect,
+"Portland, OR 97209 (Downtown area)",Digital Trends,Data Engineer,
+"Milwaukie, OR 97222 (Ardenwald area)",Jones-Stohosky Environmental Laboratory,Entry-Level Fungal/PLM Laboratory Analyst,$16 - $18 an hour
+"Tualatin, OR 97062",Ichor Systems Inc.,Logistics/Traffic Analyst,
+"Portland, OR 97204 (Downtown area)",New Relic,Business Process Analyst - Support,
+"Vancouver, WA 98683 (Bella Vista area)",PeaceHealth,Senior Cybersecurity Analyst,
+"Vancouver, WA",US Department of Veterans Affairs,Program Analyst,"$46,156 - $73,398 a year"
+"Camas, WA 98607",Fisher Investments,Technical Business Analyst (2020-9105),
+"Portland, OR 97217 (Overlook area)",Columbia Distributing,IT Manager - Business Intelligence,
+"Portland, OR 97086","Salient CRGT, Inc",Technical Business Analyst 2- JP 9546,
+"Vancouver, WA 98661 (Columbia Way area)",Managed Health Care Associates,Associate Account Analyst,
+"Headquarters, WA",H&E Equipment Services,Senior IT Business Analyst,
+"Salem, OR",John Cockerill,V.I.E Market & Business analysis Engineer USA (Salem OHIO),
+"Beaverton, OR",Providence Health & Services (Main),Senior Pharmacy Business Analyst & Systems Coordinator,
+"Beaverton, OR 97075 (Central Beaverton area)",Providence Health & Services,Senior Pharmacy Business Analyst & Systems Coordinator,
+,ShopLadder.com,Strategic Data Analyst - E-Commerce - Excel Guru a must,
+,"Palm Beach Accountable Care Organization, LLC",Healthcare Data Analyst (Accountable Care Organization),
+,IBERIA FOODS,Strategic Business Analyst -1,
+"Miami, FL",Florida International University,Temporary Data Analyst,$15 an hour
+"Deerfield Beach, FL 33442",Roig Lawyers,Data Analyst,
+"Lake Park, FL 33403",Maschmeyer Concrete Company of Florida,Data Analyst,
+"Boca Raton, FL 33427",FJA-US Inc.,Data Analyst,
+"Coral Gables, FL",Baptist Health Quality Network,BHQN Data Analyst (Tableau),
+"Homestead AFB, FL",US Department of the Air Force,PROGRAM ANALYST,"$56,354 - $73,261 a year"
+"Miami, FL",Miami Cancer Institute at Baptist Health,Research Data Analyst,
+"Miami Lakes, FL 33014",Interamerican Medical Center,Business Analyst,"$45,000 - $60,000 a year"
+"Miami, FL 33142","New Horizons Community Mental Health Center, Inc",Data Specialist,$24 an hour
+"Miami, FL",US Department of Homeland Security,Management and Program Analyst (COR),"$114,836 - $149,284 a year"
+,ImmigrationEngine,Senior Digital Marketing Analyst,"$42,000 - $57,000 a year"
+"Palm Springs, FL","Palm Beach Accountable Care Organization, LLC",Healthcare Data Analyst (Accountable Care Organization),
+"Davie, FL",GameTime,Data Entry Clerk,
+"Fort Lauderdale, FL 33309",Citrix,Business Insight Analyst,
+"Dania Beach, FL",Chewy,Category Analyst,
+"Miramar, FL 33025",Memorial Healthcare System,Analyst II - Technical: Information Technology Admin,
+"Coral Gables, FL",Lakeview Loan Servicing,MARKETING DATA ANALYST,
+"Miami Beach, FL 33139 (Flamingo Lummus area)",LNR Property LLC,Summer Analyst (2021),
+"West Palm Beach, FL 33411 (Water Catchment Area area)","Hulett Environmental Services, Inc",Business Data Analyst,
+"Miami, FL",Greensill,Origination Analyst,
+"Coral Gables, FL 33146",Bayview Asset Management,MARKETING DATA ANALYST,
+,HCW Biologics Inc.,Quality Control Analyst,
+,Citi,Global Investigations Unit Compl AML Intel Sr Analyst,
+"Pompano Beach, FL 33069 (Palm Aire area)",Kira Labs Inc.,Supply Chain Analyst- Local Candidates Only,"$45,000 - $65,000 a year"
+"Palm Beach Gardens, FL",Pike Corporation,Regional Business Analyst,
+"Miami, FL 33130 (Brickell area)",NBCUniversal,Senior Marketing Data Analyst,
+"Miami, FL",DROIT TEK SOLUTIONS,Business Analyst,
+"Pompano Beach, FL 33069",Spring Footwear Corp,BUSINESS ANALYST,
+"Miami Beach, FL",IMW Internet Marketing WorldWide,MARKET RESEARCH ANALYST,"$37,086 a year"
+"Miami, FL",CLS Bank International,ServiceNow Business Analyst (GC holder or US citizens),$45 - $55 an hour
+"Fort Lauderdale, FL 33308 (Central Beach Alliance area)",WCMS Solutions,Technical Business Analyst,"$65,000 - $91,000 a year"
+"Miramar, FL 33027",Arise Virtual Solutions Inc.,BI Analyst,
+"Miami, FL 33172",Farelogix,Business Analyst,
+"Miami, FL",777 Partners,"Analyst, BI and Portfolio Analytics",
+"Miami, FL",MVM,"Management Analyst I/Senior Administrative Assistant- Weston, Florida",
+"Doral, FL",Celestar Corporation,Data Analyst,
+"Boca Raton, FL",Mill Creek Residential,Senior Data Analyst - Property Operations,
+"Miami, FL 33146",ThoughtFocus,Project Manager/Business Analyst,
+"Boca Raton, FL 33431",vitaMedMD LLC,"Data Engineer, Data & Analytics",
+"Coral Gables, FL 33146",Bayview Asset Management,DATA & COLLATERAL ANALYST,
+"Miami Shores, FL 33161",Barry University,Research Analyst,
+"West Palm Beach, FL 33412","Palm Beach ACO, LLC",Healthcare Data Analyst,
+"Deerfield Beach, FL 33441",Softvision,Senior Financial Analyst,
+"Miami, FL",Networkforce,Business Systems Analyst,$25 - $35 an hour
+"Fort Lauderdale, FL 33316 (Poinciana Park area)",Chewy,Sr Data Analyst,
+"Doral, FL",Leeds Professional,Workforce Management Analyst,"$60,000 - $65,000 a year"
+"Miami, FL 33136 (Overtown area)",Viacom,Corporate & Business Development Analyst,
+"Deerfield Beach, FL 33442",Drivers Alert,Business Analyst,
+"Palm Beach Gardens, FL 33410","Proteus, LLC",Investment Manager Analyst,
+"Doral, FL 33178",Alcora Corporation,Business Services Data Analyst,
+"Miami, FL",Lennar,Analyst II - HRIS,
+"Boca Raton, FL","City of Boca Raton, FL",Business Systems Analyst,"$57,158 - $95,846 a year"
+"Jupiter, FL",Voloridge Investment Management,Data Quality Assurance Analyst,
+"Miami, FL 33157",Assurant,Compliance Analyst,
+"Miramar, FL 33027",Inktel Contact Center Solutions,Workforce Management Analyst,"$45,000 - $50,000 a year"
+"Boca Raton, FL",Bluegreen Vacations Corporation,HRIS Reporting Analyst,
+"Boca Raton, FL",Guardian Eagle,Data Scientist,
+,Therapies 4 Kids,Board Certified Assistant Behavior Analyst,"$45,000 - $60,000 a year"
+,The Learning Center at The Els Center of Excellence,Board Certified Behavior Analyst,
+"Miami, FL 33186",ABA Squad,Board Certified Behavior Analyst (BCBA),"$70,000 - $90,000 a year"
+"Boca Raton, FL 33431","Modernizing Medicine, Inc.",Senior Business Analyst,
+"Fort Lauderdale, FL",Broward Health Corporate,Business Systems Analyst,
+"Boca Raton, FL 33487",QEP Co Inc,Senior Benefits and HRIS Analyst,
+"Coral Gables, FL 33134",Great American Insurance Group,Real Estate Analyst,
+"Fort Lauderdale, FL 33309","4KIDS of South Florida, Inc.",Business Analytics/Business Intelligence Lead,
+"Stuart, FL 34994 (Potsdam area)",Construction Journal,Senior Business Analyst,
+"Boca Raton, FL",Cinch Home Services,Business Analyst - IT,
+"Miami, FL","Children’s Behavior Therapy, INC.",Board Certified Behavior Analyst (BCBA) Opportunity w/ Benefits,"$52,000 - $70,000 a year"
+"Boca Raton, FL 33433",Campus Management,Lead Consultant - Data Analytics & State Reporting,
+"Boca Raton, FL 33481",Cancer Treatment Centers of America,Sr. Contract Analyst,
+"Fort Lauderdale, FL",Grantek Systems Integration,Manufacturing Execution Systems (MES) Business Analyst,
+"West Palm Beach, FL",Achieve Beyond Pediatric Therapy & Autism Services,Board Certified Behavior Analyst (BCBA),
+"Coral Gables, FL 33134 (North Ponce de Leon area)",T-ROC,Senior Financial Analyst,
+"Weston, FL 33331",Apotex,"Analyst, Government Pricing","$55,000 - $75,000 a year"
+"Miramar, FL",Southern Glazer’s Wine and Spirits,CPWS Business Intelligence Analyst,
+"Miami, FL 33131 (Brickell area)","Sony Pictures Entertainment, Inc.",Programming Analyst,
+"Miami, FL",Enhance Health IT consulting,Data Analyst Technical Writer,
+"Boca Raton, FL",Hash Technologies,EDI/cXML Business Analyst,
+"Miami Beach, FL 33141",Carillon Hotel LLC,E-Commerce Analyst,
+"Medley, FL",Titan America,Cement QC Analyst,
+"Miami, FL",Potomac Management,Program Analyst I,
+"Fort Lauderdale, FL",Workforce Logiq,Data Engineer,
+,California FAIR Plan Association,Statistical Analyst,
+,UnionBank,"Data Insights Analyst, Assistant Vice President",
+,Confidental Company,Consultant II (Business Intelligence Analyst),
+"Los Angeles, CA 90017",The Loot Company,BI/Data Analyst,
+"Glendale, CA 91203 (City Center area)","Prime MSO, LLC.",Jr. Data Analyst (Jr. DA),"$38,000 - $60,000 a year"
+"Los Angeles, CA 90069",The Trevor Project,Data Analyst,
+"Los Angeles, CA",Wellth,Data Analyst,"$50,000 - $80,000 a year"
+"Newport Beach, CA",Lyceum Dynamics,Data Analyst,$40 - $50 an hour
+"Anaheim, CA 92805 (The Colony area)",WorkCare Inc.,Junior Data Analyst,
+"Los Angeles, CA",BlueLabs Analytics,Data Analyst - LA,
+"Gardena, CA 90248",Ruggable,Product Data & Insights Analyst,
+"Culver City, CA",Jam City,"Data Analyst, Product",
+"Los Angeles, CA",UCLA,Data Analyst,
+,Impactful Resources,Senior Business Analyst,
+"Los Angeles, CA",Lucky Day,Data Analyst,
+"Los Angeles, CA 90025 (Sawtelle area)",Mylife,Sr. Data Analyst,
+"Los Angeles, CA",silicon tech solutions,Disney: Data Analyst,
+"Los Angeles, CA 90017 (Westlake area)",L.A. Care Health Plan,Data Analyst I,
+"Los Angeles, CA",Heluna Health,"Assistant Staff Analyst (Policy and Planning Data Analyst), Housing For Health",$36.47 - $46.21 an hour
+"El Segundo, CA 90245",PeerStreet,Data Analyst,
+"Los Angeles, CA",Acumen LLC,Data and Policy Analyst - Writer/Coordinator,
+"Santa Monica, CA",Simplepractice,Data Analyst/Engineer,
+"Santa Monica, CA",PlayQ,Data Analyst,
+"Los Angeles, CA",Internet Brands,BI Data Analyst,
+,"Beckman Coulter, Inc.",Analyst II-Materials and Planning,
+,TRENCH PLATE RENTAL CO,Inofor Business Analyst,
+"Santa Monica, CA",Sony/ATV Music Publishing LLC,Data Analyst (Extreme),
+"Los Angeles, CA",Kharon,Data Analyst,
+"Los Angeles, CA",TutorMe,Senior Data Analyst,
+"Los Angeles, CA",PUBG Santa Monica,Business Data Analyst,
+"Burbank, CA",Information Technology Partners,Data Entry Clerk and Analyst - Financial,$18 - $25 an hour
+"Los Angeles, CA",HITRECORD,Data Analyst,
+"Los Angeles, CA 90232 (Palms area)",TikTok,"Business Analyst, Tools & Reporting",
+"Irvine, CA 92602 (Lower Peters Canyon area)",MobilityWare,"Data Analyst, Monetization",
+"Los Angeles, CA",Groundwork Coffee Roasters,Business Analyst,
+"El Segundo, CA","Operating Company ACTIVISION PUBLISHING, INC",Associate Player Support Data Analyst,
+"Industry, CA 91748",Newegg,Business Operation Analyst,"$65,000 a year"
+"Monterey Park, CA",MUFG,"Client Services Officer, Analyst",
+"Burbank, CA",Walt Disney Direct-to-Consumer and International,"Business Analyst, Business Affairs",
+"Glendale, CA 91203 (City Center area)",Age of Learning,Marketing Data Analyst,
+"Long Beach, CA",Molina Healthcare,"Analyst, Data (Pharmacy & SQL)",
+"Los Angeles, CA",Staff Smart,Data Analyst,
+"Los Angeles, CA",Swinerton Builders,Data Analyst,
+"Burbank, CA",Shapestone Inc.,Sr. Data Analyst,"$120,000 a year"
+,Uline,Business Analyst,
+"Carlsbad, CA 92011","LoadSpring Solutions, Inc",Customer Success Business Analyst,
+"Culver City, CA",TikTok,Senior Data Analyst,
+"Buena Park, CA 90620",LAs Totally Awesome,Data Analyst (Operations Research Analyst),
+"San Diego, CA 92121 (Sorrento Valley area)",SiO Digital,Data Science Intern,
+"Los Angeles, CA",Hagerty Consulting,Data Analyst,
+"Woodland Hills, CA 91367",Blue Shield of California,"Data Analyst - Health, Experienced",
+"Newport Beach, CA",Osborne Homes,Data (Fp&a) Analyst,"$80,000 - $100,000 a year"
+"Santa Barbara, CA",Amazon.com Services LLC,Machine Learning Data Associate,
+"Los Angeles, CA 90011 (Central City area)",Moon Collection,Market Research Analyst,
+"Westlake Village, CA 91362",PennyMac,Business Data Analyst,
+,"Dot818, LLC",Data & Analytics Services Sales Manager,
+,Lanic Aerospace,Cost Analyst,$28 - $34 an hour
+"California City, CA",Fortuna BMC,QA Analyst (Call Center),$24 an hour
+"Los Angeles, CA",TCG,Analyst,
+"Los Angeles, CA",Corsica Life Sciences,Analyst / Consultant,
+"Lawndale, CA 90260",JLM Environmental,Asbestos Lab Analyst PLM/PCM,$17 - $22 an hour
+"El Segundo, CA",Intrado,Editorial Analyst,
+"Newport Beach, CA 92660","Harvey & Company, LLC",Junior Analyst,$17 an hour
+,ELECTRO RENT CORPORATION,Collections Analyst,"$52,000 - $60,000 a year"
+,"U.S. Auto Parts Network, Inc",Marketing Analyst,
+,Catasys,HR Analyst / Project Manager,
+,Pasadena City College,Programmer Analyst,
+,"Satori Technology, LLC",Senior Developer - Azure Data Warehousing / DAX / Integrations,"$85,000 - $150,000 a year"
+,Masimo,Senior Tax Analyst,
+"San Fernando, CA",Hestia Hospice,Filing/Data Processing Clerk,
+"Los Angeles, CA 90017",Chinatrust Bank USA,Application Analyst II,
+"Los Angeles, CA",Chaucer Foods,Associate Financial Analyst,"$50,000 - $60,000 a year"
+"Vista, CA 92081",Stone Brewing Co.,Master Data Analyst,
+,Mr. Bult's Inc.,Data Analyst/Billing Coordinator,
+,Medical Home Network,Senior Healthcare Data Analyst,
+"Chicago, IL",PROMARKETEXCHANGE,Entry Level Business Analyst,"$60,000 - $65,000 a year"
+"Chicago, IL",Microflexinfra,Entry Level Business Analyst,"$60,000 - $65,000 a year"
+"Chicago, IL 60604 (Loop area)",Forfeiture Support Associates,Administrative Assistant / Data Analyst Supporting the DEA,
+"Chicago, IL",Northwestern University,Data Analyst Associate,
+"Chicago, IL 60606 (Loop area)",PDI,Data Operations Analyst,
+"Chicago, IL 60603 (The Loop area)",The Art Institute of Chicago,Data and Research Analyst,
+"Chicago, IL 60612 (West Town area)",Source Alliance Network LLC,Logistics Data Analyst II,
+"Chicago, IL",Weboptimix,Entry Level Business Analyst,$30 - $33 an hour
+"Chicago, IL",Cepoch,Business Analyst with Alteryx Data Analytics Platform experience,$65 an hour
+"Chicago, IL 60607 (West Town area)",ServiceNow,Data Analyst,
+"Chicago, IL",BMO Financial Group,Help Desk Analyst (Entry Level),
+"Chicago, IL 60606 (Loop area)",Zing Health,Sr. Business Analyst,"$85,000 - $120,000 a year"
+"Chicago, IL",Chicago Public Schools,Data Analyst,
+"Chicago, IL 60606 (The Loop area)",Numerator,Senior Data Analyst,
+"Chicago, IL",Chicago Public Schools,CSI Data Analyst,
+"Chicago, IL",Metropolitan Family Services,Data Analyst (MPI),
+"Chicago, IL",PDI,Business Intelligence Analyst,
+"Chicago, IL 60654 (River North area)",Fetch Rewards,"Data Scientist, Intern",
+"Chicago, IL 60604 (The Loop area)",Federal Reserve Bank of Chicago,Research Analyst,
+"Chicago, IL 60606 (The Loop area)",Numerator,Client Services Analyst,
+,Headquarter office for global distribution giant,"Data Entry Excel Specialist $37,000 Naperville Area",$17 - $19 an hour
+"Chicago, IL 60606 (Loop area)",PDI,Data Engineer,
+"Chicago, IL 60611 (Streeterville area)",Ann & Robert H. Lurie Children’s Hospital of Chica...,Data Analyst,
+"Chicago, IL",Bank of America,Quantitative Services Associate,
+"Chicago, IL 60606 (Loop area)",Equilar Inc,Research Analyst - Chicago,
+"Chicago, IL 60606 (The Loop area)",Saggezza,Data Analytics Manager,
+"Chicago, IL",Northwestern University,Research Data Analyst,
+"Schaumburg, IL",First Notch Technology LLC,Junior Business Analyst,$28 - $32 an hour
+"Chicago, IL 60606 (Loop area)",Riskonnect Inc,Data Analyst,
+"Chicago, IL 60607 (Near West Side area)",College Rising Company,Data Operators (Remote Internship),
+"Chicago, IL 60601 (The Loop area)",Fooda,Business Intelligence Analyst,
+"Chicago, IL 60604 (The Loop area)",Compass Lexecon,Analyst,
+"Burnham, IL 60633 (Hegewisch area)",Mr. Bult's Inc.,Data Analyst/Billing Coordinator,
+"Chicago, IL 60654 (River North area)",Fetch Rewards,Fraud Prevention Analyst,
+"Chicago, IL 60601 (The Loop area)",HomeX,Business Intelligence Analyst,
+,ULINE,Sales Analyst,
+,"CorTech, LLC",Systems Analyst - Master Data Analyst,$39.37 an hour
+"Chicago, IL 60606 (The Loop area)",Strike Social,Data Scientist (Entry Level),
+"Cook County, IL",State of Illinois,Research Analyst - Non-Code,"$58,000 - $62,500 a year"
+"Chicago, IL",TMP Worldwide,Performance Media Analyst (PMA/PPC/SEM),
+"Chicago, IL 60654 (Goose Island area)",Echo Global Logistics,HR Analyst,
+"Chicago, IL 60606 (The Loop area)",TIAA,"Investment Oversight, Data and Reporting",
+"Chicago, IL 60654 (River North area)",Integral Ad Science,Associate Data Engineer,
+,ULINE,Junior Report Analyst,
+,Ulta Beauty,Ecommerce Transportation Analyst,
+,"Lionshead Specialty Tire & Wheel, LLC",Purchasing Analyst,
+,CoinFlip,Data Entry,"$30,000 - $35,000 a year"
+"Bridgeview, IL 60455","Stampede Meat, Inc.",Data Analyst,
+"Chicago, IL",Econtenti Inc,Sr. PeopleSoft Analyst / Developer,"$90,813 - $176,983 a year"
+"Chicago, IL 60654 (River North area)","Level Ex, Inc.",Data Analyst,
+"Chicago, IL",Sammons Financial Group Companies,Product Analyst - Temporary Role,
+"Chicago, IL 60637 (Woodlawn area)",Chapin Hall at the University of Chicago,Policy Analyst,
+"Chicago, IL 60611 (Streeterville area)",Ann & Robert H. Lurie Children's Hospital of Chica...,Data Developer,
+"Chicago, IL 60661 (Near West Side area)",Caterpillar,Senior Business Data Analyst,
+"Chicago, IL 60601 (The Loop area)",Hale Testing Solutions,Machine Learning/Data Scientist,"$87,829 - $122,372 a year"
+"Chicago, IL","Hornblower Cruises and Events, LLC",Data Scientist - Cruises & Events,
+"Chicago, IL 60637 (Woodlawn area)",The University of Chicago,Data Analyst,
+"Chicago, IL 60654 (Loop area)",ARYZTA Careers,Sr. Analyst Procurement - Packaging,
+"Evanston, IL",Cardinal Intellectual Property,Patent Analyst - Life Sciences,
+"Chicago, IL 60605 (South Loop area)",Group One Trading,Trading Analyst Intern,
+"Chicago, IL 60605 (South Loop area)",Group One Trading,Trading Analyst,
+"Burr Ridge, IL",SkinCure Oncology,Medical Billing Analyst,"$45,000 - $55,000 a year"
+"Chicago, IL 60654 (River North area)",AllianceChicago,Data Warehouse Business Analyst,
+"Chicago, IL",CME Group,Information Security Project Manager I/Business Analyst,
+"Chicago, IL 60623 (Little Village area)",Wintrust Financial Corporation,Data Analyst,
+"Chicago, IL",ZLLIUS,Business/Data Analyst Techno Functional,
+"Chicago, IL",access2insight,Data Analytics Strategy & Operations Associate,
+"Chicago, IL",Centene Corporation,Lead Data Analyst,
+"Chicago, IL",Show Me Leads,Marketing Data Analyst,
+"Chicago, IL 60602 (The Loop area)",CIBC US,Data Management Analyst,
+"Chicago, IL 60601 (The Loop area)",The Marketing Arm,Analyst,
+"University Park, IL 60484","DSC Logistics, LLC",Warehouse Operations Quality Analyst,"$55,000 - $70,000 a year"
+"Chicago, IL 60601 (The Loop area)",TCS Education System,IT Analyst,
+"Chicago, IL 60601 (The Loop area)",OneSpan,Anaplan Analyst - Temp,
+"Chicago, IL 60607 (West Loop Gate area)",WALGREENS,CRM Marketing Analyst,
+"Chicago, IL",Northern Trust Corp.,Cyber Threat Analyst,
+"Chicago, IL 60603 (The Loop area)",Ardent Managed Solutions,"Analyst, Contract Analysis",$30 an hour
+"Chicago, IL 60603 (The Loop area)",HIMSS,Senior Data Analyst,
+"Chicago, IL 60606 (Loop area)",TradeStation,Compliance Analyst,
+"Chicago, IL",#TeamGoHealth,Operations Analyst,
+"Rolling Meadows, IL 60008",Sahara Management Inc.,Sales Data Analyst,$11 - $14 an hour
+"Chicago, IL 60611 (Streeterville area)",The Onion,Sales Reporting Analyst,
+"Rockford, IL",Rockford Public Schools,Capital Programs Data Analyst,
+"Chicago, IL",AETNA,Analyst,
+"Chicago, IL",CITADEL ENTERPRISE EUROPE LIMITED,"Global Equities, Investment Analyst",
+"Chicago, IL 60602 (The Loop area)",Goby Inc,Data Associate,
+"Itasca, IL 60143",ARS-Rescue Rooter,Junior Marketing Analyst,
+,"Spruce Services, Inc",Data Engineer,"$95,000 - $120,000 a year"
+,OneAuth,Senior Data Architect,$80 - $90 an hour
+,Personal Household,Attorney - Research & Analyst Position,"$70,000 - $150,000 a year"
+"Austin, TX 78754",GasPedal,Leading Data-Driven Change -- Data Industry Analyst,
+"Austin, TX 78716",UnitedHealth Group,Principle Data Analyst,
+"Austin, TX 78754",GasPedal,Industry Analyst -- Data Science and Strategy,
+"Austin, TX",ARK Solutions,Junior Data Analyst/Data Entry/Federal Data Entry,
+"Austin, TX 78754",Health & Human Services Comm,Data Analyst,"$4,023 - $6,579 a month"
+"Austin, TX 78751 (Triangle State area)",Dept of Family & Protectve Svc,Data Analyst,"$4,599 - $6,400 a month"
+"Austin, TX 78702 (Central East Austin area)","Spruce Services, Inc",Data Engineer,"$95,000 - $120,000 a year"
+"Austin, TX",Facebook,"Data Analyst, Law Enforcement Response Team",
+"Austin, TX (East Oak Hill area)",Health & Human Services Comm,Junior Data Analyst,"$3,293 - $5,371 a month"
+,Teacher Retirement System of Texas,Business Intelligence and Data Analyst,
+,Sellers Shield,Data Analyst,
+"Austin, TX 78744 (Southeast area)",OFFICE OF INJURED EMPLOYEE COUNSEL,OIEC - Data Reporting Analyst (Prog Spec II),"$4,167 a month"
+"Austin, TX",MVPindex,"Associate Insights Analyst, Marketing",
+"Austin, TX",SubjectWell,Data Scientist,
+"Austin, TX 78746",Sellers Shield,Data Analyst,
+"Austin, TX",Apple,Product Insights Analyst,
+"Austin, TX",132 ENG Inc.,Data Analyst,
+"Austin, TX","Advanced Micro Devices, Inc.",Business Analyst - 79396,
+"Austin, TX",Fusion Technical Solutions,Associate Business Analyst,
+"Austin, TX 78759 (North Burnett area)",TransPerfect,TransPerfect is recruiting professionals for an immediate short term Data entry/Redaction project.,$26 an hour
+"Austin, TX",Zynga,Data Analyst,
+"Austin, TX",TaskRabbit,"Data Analyst, Trust & Safety",
+"Austin, TX",Hagerty Consulting,Data Analyst,
+"Austin, TX",Healthgrades,Data Quality Analyst,
+"Austin, TX 78717",Cigna,Financial Analysis Analyst,
+"Austin, TX",Facebook,Supplier Enablement Analyst - Procure-to-Pay,
+"Austin, TX 78746",Alliant Insurance Services,Benefits Analyst I,
+"Austin, TX 78712 (University of Texas area)",University of Texas at Austin,Football Analyst,
+"Austin, TX 78729",Q2ebanking,Data Migration Analyst,
+"Austin, TX",Facebook,Sourcing Analyst,
+"Austin, TX 73301 (St Edwards area)",Softvision - North America,Technical Business Analyst,
+"Round Rock, TX 78665",ClearCorrect,Business Intelligence Analyst,
+"Austin, TX 78749 (East Oak Hill area)",Texas Windstorm Insurance Association,QA Analyst - Data Warehouse,
+"Austin, TX",Facebook,Employment Law & Investigations Analyst,
+"Austin, TX",Ascension Technologies,Clinical Data Management - Technical Analyst,
+"San Antonio, TX",BridgeGap Global,Business Analyst Consultant,$75 an hour
+"Austin, TX",Healthgrades,Senior Claims Data Analyst,
+"Austin, TX 78759 (Arboretum area)",Forcepoint,Business Analyst,
+"Austin, TX 78702 (Rosewood area)",Show Me Leads,Marketing Data Analyst,
+"Austin, TX 78701 (Downtown area)",TEXAS EDUCATION AGENCY,TSDS Data QA Analyst (Data Analyst IV),"$4,917 - $6,667 a month"
+"San Antonio, TX 78216",Vantage Bank Texas,Data Reporting Analyst,
+"Austin, TX 78701 (Downtown area)",Buc-ee's Ltd,"Category Analyst - Pkg Beverages/Non-Alcohol GREAT PAY! GREAT BENEFITS! AUSTIN, TX OPPORTUNITY!",
+"San Antonio, TX 78249",Valero Energy Corporation,Business Intelligence Analyst,
+"San Antonio, TX",HCL Americas,Senior Data Analyst,
+"San Antonio, TX 78205 (Downtown area)",Scaleworks,Senior Data Analyst,
+"Austin, TX 78702 (Upper Boggy Creek area)",United Way for Greater Austin,Data Management Intern (unpaid),
+"Austin, TX 78731",Iris Plans Inc.,Senior Data Analyst,
+"Austin, TX 78746",BazaarVoice,Client Success Operations Analyst,
+"San Antonio, TX 78229",Huntington Ingalls Industries Inc.,Data Analyst,
+"Austin, TX 78701 (Downtown area)",TEXAS EDUCATION AGENCY,"Associate, Strategy and Operations (Data Analyst IV)","$4,917 - $6,489 a month"
+"Austin, TX",HORNE LLP,Data Analyst,
+"Austin, TX",Ascension Technologies,Technical Data Analyst,
+"Austin, TX 78701 (Downtown area)",Texas Department of Transportation,Strategic Data Analyst III - Strategic Planning Divsion,"$59,004 - $96,720 a year"
+"Austin, TX 78750",Baylor Scott & White Health,Business Analyst - SWHP,
+"Austin, TX",B.well Connected Health,Payment Integrity Data Analyst,
+,Texas Association of Counties,Financial Analyst,
+,OneAuth,Technical Business Analyst - Workday HCM,$60 - $70 an hour
+"San Antonio, TX 78245",CDO Technologies Inc,Data Analyst,
+"Austin, TX 78751 (Triangle State area)",Health & Human Services Comm,Business Analyst III,"$4,917 - $8,060 a month"
+"Austin, TX 78758 (North Burnett area)",Central Health,Business Intelligence Manager,
+"Austin, TX",HORNE LLP,Business Analyst,
+"Killeen, TX 76542",First National Bank Texas,AML Business Analyst,
+"Austin, TX",eBay Inc.,Investments Treasury Analyst,
+"Austin, TX 78731",Indeed,International Product Analyst- Canada,"$56,000 - $72,000 a year"
+"Austin, TX 78731",Indeed,International Product Analyst- France,"$56,000 - $72,000 a year"
+"Austin, TX",General Dynamics Information Technology,Sr. Business Analyst,
+"Austin, TX",LPL Financial,Sr Business Analyst,
+"Austin, TX",Pinkus Partners,Business Analyst,
+"San Antonio, TX 78201 (Jefferson-Monticello Park area)","Amyx, Inc.",Contract Data Analyst,
+"San Antonio, TX",Gathi Analytics,Sr. Business Analyst,$65 - $75 an hour
+"Austin, TX 78731 (Rosedale area)",Texas Department of Transportation,Transportation Program Division Business Analyst II,"$51,614 - $84,479 a year"
+"Austin, TX 78759 (North Shoal Creek area)",UFCU,Senior Business Analyst,
+"Belton, TX 76513","Corporate Pharmacy Services, Inc.",Sr Data Analyst,
+"Austin, TX",Apple,"Senior Data Analyst, Ad Platforms",
+"Austin, TX 78759 (North Shoal Creek area)",UFCU,Data Warehouse Analyst,
+"Austin, TX",Booz Allen Hamilton,"Data Analyst, Lead",
+"Austin, TX 78757 (North Shoal Creek area)",Pain Specialist of America LLC,Healthcare Analyst,
+"Austin, TX","Ishpi Information Technologies, Inc",Junior Data Warehouse Analyst,
+"San Antonio, TX 78229",South Texas Radiology Group PA,Lead Data Analyst,
+"Austin, TX",Tek9 Solutions,Business Analyst,
+"Austin, TX 78701 (Downtown area)",Travis County,Business Analyst III,"$72,862 - $85,987 a year"
+"Austin, TX",US Department of Veterans Affairs,Program Analyst,"$92,977 - $120,874 a year"
+,"Universal Screen Arts, Inc.",Business & Liquidation Analyst,"$40,000 - $60,000 a year"
+,ITI Data,Ab Initio Data Engineer,
+,PNC Financial Services Group,Portfolio Analytics & Strategy Analyst Sr -. Loan Loss Reserve. -,
+"Pittsburgh, PA",The University of Pittsburgh,Data Analyst,
+"Washington, PA 15301",County of Washington,Data Analyst II,$17.88 an hour
+"Pittsburgh, PA 15201 (Lower Lawrenceville area)",Princeton Mortgage,Business Development Analyst,"$40,000 - $45,000 a year"
+"Irwin, PA 15642",Duncan Financial Group / Atlantic Financial Group,Pension Analyst 401(k),
+"Warrendale, PA 15086",Intalere Inc,Associate Data Engineer,
+"Pittsburgh, PA 15206 (East Liberty area)","YinzCam, Inc.",Senior Data Analyst,
+"Pittsburgh, PA 15222 (Central Business District area)",Donnelly-Boland and Associates,Service Desk Analyst,
+"Warrendale, PA 15086",TrueSense Marketing,Marketing Analyst,
+"Pittsburgh, PA 15222 (Central Business District area)",Highmark Inc,Sales Messaging Analyst,
+"Pittsburgh, PA",BNY Mellon,"Analyst, Data Management Quant Analysis",
+,"BCHH, Inc.",Escrow Accounting Analyst,
+,"BSI Financial Services, Inc",Credit Reporting Analyst,$13 an hour
+"Coraopolis, PA 15108",DICK'S Sporting Goods,Legal Analyst,
+"Coraopolis, PA 15108",DICK'S Sporting Goods,Associate Analyst - Vendor Direct,
+"Pittsburgh, PA 15222 (Central Business District area)",Port Authority of Allegheny County,Software Support Analyst,"$5,355 - $6,694 a month"
+"Pittsburgh, PA",The University of Pittsburgh,Associate Data Analyst,
+"Pittsburgh, PA 15222 (Central Business District area)",Highmark Inc,Financial Analyst,
+"Pittsburgh, PA",HM Health Solutions,Sr Data Modeling Analyst,
+"Pittsburgh, PA 15213 (North Oakland area)",UPMC,"Financial Analyst, Associate",$19.17 - $31.85 an hour
+"Pittsburgh, PA",BNY Mellon,"Analyst, Client Service",
+"Pittsburgh, PA 15201 (Central Lawrenceville area)","CGI Group, Inc.",Business Analyst,
+"Pittsburgh, PA",BNY Mellon,"Lead Analyst, Data Management Quant Analysis",
+,PNC Financial Services Group,PrtfolioAnl&Stra Analyst Sr,
+,"YinzCam, Inc.",Senior Data Analyst,
+"Pittsburgh, PA",HM Health Solutions,Business Systems Analyst,
+"Pittsburgh, PA",Highmark Health,Decision Support Analyst - MLS Data Analytics,
+"United, PA",KBS Solutions,Product Modification Business Analyst,$38 - $40 an hour
+"Morgantown, WV 26505","Sanjay Bharti, MD, PLLC",Lead Data Analyst,"$49,536 - $60,000 a year"
+"Pittsburgh, PA",BNY Mellon,"Analyst, Client Reporting/Perf",
+"Pittsburgh, PA 15222 (Central Business District area)",Highmark Inc,Pharmacy Analyst,
+"Pittsburgh, PA 15219 (Middle Hill area)",UPMC,Business Analyst II,$23.28 - $40.28 an hour
+"Pittsburgh, PA 15219 (Middle Hill area)",UPMC,"Business Analyst, Health Plan - Behavioral Integration",$21.64 - $37.36 an hour
+"Pittsburgh, PA 15222 (Strip District area)",Bosch Group,Data/Knowledge Creation Intern for Autonomous Driving,
+"Warrendale, PA 15086",Federated Hermes,IMO Senior Data Analyst,
+,PNC Financial Services Group,Business Analysis Manager-IT,
+"Pittsburgh, PA 15222 (Central Business District area)",Carmeuse Lime & Stone,Power BI Data Analyst,
+"Warrendale, PA 15086",Komatsu,Financial Analyst,
+"Pittsburgh, PA 15222 (Central Business District area)",Highmark Inc,BAU- Business Analyst,
+"Pittsburgh, PA 15233 (Allegheny West area)",PNC Financial Services Group,Data Scientist Sr. - Conversation Designer & NLP Analyst,
+"Morgantown, WV 26501 (First Ward area)",The West Virginia University Foundation,Advancement Data Intern,
+"Pittsburgh, PA",BNY Mellon,Senior Representative Data Management Quantitative Analyst,
+"Canonsburg, PA 15317",ANSYS,Vendor Relationship Management Analyst,
+"Brilliant, OH",Ohio's Electric Cooperatives,IT Business Analyst Intern,
+"Titusville, PA 16354","BSI Financial Services, Inc",Data Mapping Analyst,
+"Pittsburgh, PA",Systems Ltd,Business Analyst / PL SQL or Java Developer,"$65,000 - $90,000 a year"
+"Pittsburgh, PA",BNY Mellon,"Analyst, CltOnbdg/Tran/Con",
+"Hudson, OH 44236","Universal Screen Arts, Inc.",Business & Liquidation Analyst,"$40,000 - $60,000 a year"
+"Pittsburgh, PA 15213 (Squirrel Hill North area)",Carnegie Mellon University,Contracts Officer or Analyst - Office of Sponsored Programs,
+"Pittsburgh, PA",RoadRunner Recycling Inc.,Performance Analyst - Finance & Operations,
+"Carnegie, PA 15106",DAI Management Consultants,Financial Analyst,
+"Pittsburgh, PA 15212",Matthews,"System Analyst - Ariba, Esker",
+"Pittsburgh, PA",Callibus Inc,Big Data/Hadoop Developer,
+"Pittsburgh, PA 15122",Thermo Fisher Scientific,Financial Analyst I,
+"Pittsburgh, PA 15222 (Strip District area)",Data Ideology,Data Quality Analyst - HEDIS/Cotiviti (833782),
+"Pittsburgh, PA 15219 (South Shore area)","Wesco Distribution, Inc.",Intelligent Automation Analyst,
+,PNC Financial Services Group,Detection & Investigation Analyst Sr. - Zelle Fraud,
+"Canton, OH 44708",The Medical Cost Savings Solution,EDI and Reports Analyst,"$70,000 - $90,000 a year"
+"Pittsburgh, PA",Duquesne Light,Inventory Analyst,
+"Pittsburgh, PA 15239",PPG Industries,Payroll Accounting and Tax Analyst,
+"Coraopolis, PA 15108",DICK'S Sporting Goods,Senior Security Analyst - Remote,
+"United, PA",KBS Solutions,Cobol/Mainframe Programmer Analyst,$40 - $42 an hour
+"New Kensington, PA 15068",Siemens,Inventory Analyst,
+"Pittsburgh, PA 15219 (Central Business District area)",Brightside Academy,Grant Analyst,
+"Pittsburgh, PA 15289",UnitedHealth Group,Business Process Consultant,
+"Warrendale, PA 15086",Federated Hermes,IMO Data Specialist,
+"Pittsburgh, PA 15122",Thermo Fisher Scientific,Pricing Analyst II,
+"Pittsburgh, PA 15213 (North Oakland area)",UPMC,"Financial Analyst, Senior",$27.98 - $47.14 an hour
+"Pittsburgh, PA",American Eagle Outfitters,Analyst - Vendor Compliance & Enablement,
+"Pittsburgh, PA",SSI,Senior Business Analyst,
+"Pittsburgh, PA 15220",SCA Technologies,Software Support Analyst,
+"Pittsburgh, PA","Mitsubishi Electric Power Products, Inc.",Market Data Management Specialist,
+"Pittsburgh, PA",SSI,Data Analyst # JN -102019-49661,
+"Pittsburgh, PA 15122",Thermo Fisher Scientific,"Senior Financial Analyst, Insights and Analytics",
+"Pittsburgh, PA",JLL,Temporary Lease Analyst,
+"Pittsburgh, PA 15237",Automated Health Systems,Business Analyst,
+"Pittsburgh, PA 15258 (Central Business District area)",Hire genics,KYC/AML Analyst,$22 - $24 an hour
+"Pittsburgh, PA 15222 (Central Business District area)",Carmeuse Lime & Stone,Payroll Analyst,
+"Pittsburgh, PA",SSI,Business Analyst # JN -062020-53766,
+"Pittsburgh, PA 15206 (Shadyside area)",Sheetz,Chief Data Officer,
 ,Starr and Associates,Data Analyst,"$80,000 - $106,242 a year"
-,"Deacom, Inc.",Data Specialist,"$60,000 - $95,000 a year"
-,"Decision Information Resources, Inc",Senior Data Analyst,"$80,000 - $115,000 a year"
-,Christie Campus Health,Data Research Analyst,$23 - $28 an hour
-,"Prime MSO, LLC.",Jr. Data Analyst (Jr. DA),"$38,000 - $60,000 a year"
-,Qi Venture Partners,Research & Data Analyst,"$50,000 - $65,000 a year"
-,County of Washington,Data Analyst II,$17.88 an hour
-,Amida Technology Solutions,Data Analyst,
-,Wellview Health,Business Intelligence Analyst,"$65,000 - $90,000 a year"
-,Team Velocity,Mid-Level Data Analyst,
-,Columbia Marking Tools,Customer Service/Data Entry,$14 - $15 an hour
-,"Asset Protection Unit, Inc.",Overpayment Data Analyst/Programmer,"$70,000 - $100,000 a year"
-,Liberty Mutual Insurance,Principal Data Analyst,"$110,900 - $143,500 a year"
-,"Edge Pharma, LLC.",QC Microbiology Analyst,
-,Delta Research Inc,Tactical Data Link Analyst,
-,CNS Healthcare,Business Analyst,
-,Brook Valley Management,Retail Data Analyst,"$60,000 - $75,000 a year"
+,Confidential - Structured Asset Finance,Data Analyst,
+,Search America,Sr. Credit Analyst,"$80,000 - $100,000 a year"
+,Altium Packaging,Freight Accounting Analyst,
+"Atlanta, GA",Course5 Intelligence,Digital Data Analyst,
+"Atlanta, GA 30324 (Buckhead area)",Starr and Associates,Data Analyst,"$80,000 - $106,242 a year"
+"Norcross, GA 30092","HealthMPowers, Inc",Data Analyst,
+"Alpharetta, GA",Jernel Technology Corporation,Full-time job opportunity for Data Analyst with Immigration Support,"$55,000 - $60,000 a year"
+"Atlanta, GA 30342 (Buckhead area)",Integro,Data Analyst,
+"Atlanta, GA 30313 (Downtown area)",Coca-Cola Business Services North America LLC,"Sr. Analyst, Data Services- Food Service and Distributor Data",
+"Duluth, GA 30096",MaxisIT Inc,Customer Data Ops Analyst,
+"Atlanta, GA 30303 (Downtown area)",Atlanta Public Schools,Junior Data Analyst,$20 an hour
+"Atlanta, GA 30339","Cooper Holdings, Inc.",Business Analyst,
+"Atlanta, GA 30303 (Five Points area)",Pinnacle Solutions Inc,Data Scientist – Modeler,
+,Uline,Operations Analyst,
+,"Project Verte, Inc.",Business Analyst,"$65,000 - $75,000 a year"
+"Atlanta, GA 30303 (Downtown area)",US Department of Labor,Management and Program Analyst,"$96,117 - $131,532 a year"
+"Atlanta, GA 30339",Constant Analytics,Data Analyst,
+"Atlanta, GA 30303 (Downtown area)",Riya Software Consulting,Data Analyst,$40 - $51 an hour
+"Atlanta, GA",Healthgrades,Data Quality Analyst,
+"Alpharetta, GA 30005",Mediacurrent,Digital Analyst (US-based telecommute position),
+"Atlanta, GA",US Department of Homeland Security,Program Analyst,"$80,830 - $105,083 a year"
+"Alpharetta, GA",Clarity USA,Data Analyst,
+"Atlanta, GA",The Home Depot,Data Analyst - Distribution Analytics,
+"Atlanta, GA",The Home Depot,BUSINESS ANALYST,
+"Smyrna, GA",UCA services,Business Analyst with WMS,$47 - $57 an hour
+"Atlanta, GA",CharterUP,Pricing & Data Analyst,
+"Gainesville, GA",Northeast Georgia Health System,CVIS Lead Data Analyst - The Heart Center - Gainesville - Full Time,
+"Warner Robins, GA 31088",Northrop Grumman,Data Insight Analyst,
+"Atlanta, GA 30309 (Brookwood area)",GovStrive LLC,Business Analyst,
+"Atlanta, GA",US Department of Veterans Affairs,Program Analyst,"$80,830 - $105,083 a year"
+"Atlanta, GA 30339",Informa,Senior Data Analyst,
+"Atlanta, GA 30339",Infosys Limited,"Data Warehouse, ETL Test Analyst",
+"Atlanta, GA",HD Supply,HR Information Systems Analyst - Data and Infrastructure,
+"Atlanta, GA 30326 (Buckhead area)",iMedX Inc.,Salesforce Analyst,
+"Norcross, GA","Immucor, Inc",Supply Chain Analyst,
+,Distribution Cooperative Inc,Inventory Control Analyst,
+"DeKalb County, GA","DeKalb County, GA",Systems Analyst,"$54,237 - $84,069 a year"
+"Atlanta, GA 30319 (Brookhaven area)",Turner,"Analyst, Commercialization Research",
+"Atlanta, GA",CBRE,Portfolio Analyst,
+"Atlanta, GA",Fusion Technical Solutions,Accounts Receivable Lead Analyst,$25 an hour
+"Atlanta, GA 30339",RaceTrac,Real Estate Research Analyst,
+,Clear Nexus Inc,Credit Risk Analyst,"$35,000 - $50,000 a year"
+"Atlanta, GA 30328",VectorNow.com,IT QA (Quality Analyst) Entry-Level Positions,
+"Atlanta, GA",Northrop Grumman,Principal Media Analyst*,
+"Sandy Springs, GA",Embark General Insurance,Data Analytics Developer,
+"McDonough, GA 30253",Toppan Interamerica,Enterprise Resource Planning Analyst,$28 - $34 an hour
+"Atlanta, GA",UNITED PARCEL SERVICE,Data Engineer,
+"Atlanta, GA",Interapt,"Customer Support Analyst, II (Department of Defense Clearance Required)",$19 an hour
+,Cloudious LLC,Data security Voltage Architect,
+,Tolteca Foodservice,Operations Analyst,
+"Sandy Springs, GA 30328",Arkadin,Revenue Analyst - Atlanta USA - Business Revenue Financial Data,
+"Rex, GA",Ultimate Systems Inc,Business Analyst,
+"Atlanta, GA 30309 (Midtown area)",RSM US LLP,"Manager, Business Intelligence & Data Analytics",
+"Atlanta, GA",Intercontinental Exchange,Senior Data Analyst - Financial Engineering,
+"Atlanta, GA",The Home Depot,SENIOR DATA ANALYST - LAST MILE OPTIMIZATION,
+"Atlanta, GA 30349","Chick-fil-A, Inc.","Business Analyst III, Cybersecurity",
+"Atlanta, GA",ATT Southern Patio,Business Analyst ATLANTA,
+"Norcross, GA",Century Communities,Land Acquisition Analyst,
+"Atlanta, GA 30319",Algoloma Systems,Business Analysis,
+"Duluth, GA",,Business Analyst 2,
+"Atlanta, GA 30303 (Five Points area)",Metas Solutions,Business Process Analyst,
+"Atlanta, GA 30329",ICF,Public Health Analyst - Data Analysis and Global Health Program Support,
+"Atlanta, GA 30315 (Grant Park area)",Smart Space,Building Analyst and Sales Technician,
+"Atlanta, GA",Americold,IT Compliance Analyst I,
+"Alpharetta, GA 30004","Perficient, Inc",Business Analyst,
+"Alpharetta, GA","Fiserv, Inc.",Financial Analyst,
+"Columbus, GA 31909",Hughston Clinic,Senior Data Analyst,
+"Atlanta, GA 30322",Centers for Disease Control and Prevention (CDC),CDC Epidemiology and Data Analysis Fellowship,
+"Atlanta, GA 30328","Safe-Guard Products International, LLC",Data Quality Analyst,
+"Decatur, GA 30030 (Downtown area)",Emory,Revenue Cycle Analyst,
+"Atlanta, GA 30328","Safe-Guard Products International, LLC",Business Analyst/Project Manager,
+"Atlanta, GA",Myers and Stauffer LC,Senior Data Analyst,
+"Atlanta, GA 30329",ICF,Scientific Data Analyst,
+"McDonough, GA 30253",Luxottica Group,Sr Analyst Supply Chain,
+"Atlanta, GA",ECM Practice,Senior Business Analyst,
+,Anthem,Actuarial Analyst III (Cost of Care) - PS33739,"$77,280 - $115,920 a year"
+,Ross Technology,IT Data Analyst,"$65,000 - $75,000 a year"
+,Cambridge Solutions,Non-IT Pharmaceutical Business Analyst,$20 - $35 an hour
+,Wells Fargo Bank,Analytic Consultant 4,
+"Philadelphia, PA 19106 (City Center East area)",Forfeiture Support Associates,Data Analyst Supporting the FBI,
+"Philadelphia, PA",Tetra Tech,"Data Analyst (Philadelphia, PA)",
+"King of Prussia, PA",2000 east westmoreland st llc,Data Analyst - Entry Level,$15 - $16 an hour
+"Horsham, PA",Piper Companies,SQL Data Analyst,$55 - $65 an hour
+"Harrisburg, PA 17102 (Midtown area)","WebFX, Inc.",Jr. Business Data Analyst,"$35,500 - $38,500 a year"
+"Ambler, PA",Radius Global Solutions LLC,Business Analyst,"$70,000 - $75,000 a year"
+"Kearny, NJ","TEKEDGE SOLUTION, INC.",Data Analyst (Entry Level 0-4 yrs experienced only),"$65,000 - $80,000 a year"
+"Yardley, PA",Piper Companies,Data Analyst (Entry Level),$13 an hour
+"North East, MD 21901",Cecil College,Data Analyst,
+"Philadelphia, PA",goPuff,Data Analyst - Data Science,
+,Visual Connections LLC,Data Analyst I (Jr),"$52,000 - $55,000 a year"
+,"Renaissance Associates, Ltd.",Intelligence Analyst,"$50,000 - $100,000 a year"
+"Center Valley, PA",Thermo Fisher Scientific,Master Data Governance Analyst,
+"Norristown, PA",Pharmica Consulting,Patient Recruitment Data Analyst (ArcGIS),
+"West Chester, PA 19380",AccessLex Institute,Data Analyst,
+"Philadelphia, PA",Continuum Companies,Corporate Finance Analyst,"$45,000 - $50,000 a year"
+"Philadelphia, PA 19103 (Logan Square area)",IntegriChain,"Jr. Data Analyst, Master Data",
+"New York, NY 10020 (Midtown area)",Yewno,Alternative Data Research Analyst,
+"New York, NY",Gainful Health,Data Analyst,
+"New York, NY 10017 (Murray Hill area)",NADAP,Data Reporting Analyst,"$55,000 - $70,000 a year"
+"Philadelphia, PA 19129 (Alleghany West area)",STRATIS IoT Inc,Data Analyst,
+"New York, NY",Digi555,Entry Level Business Analyst,"$68,000 - $75,000 a year"
+,FOCO,Sales Operations Analyst - Entry Level,
+,IKEA,Customer Engagement & Loyalty Analyst,
+,Touch of Color Flooring,Work Order Analyst,
 ,Auxilior Capital Partners,Senior Credit Analyst,"$65,000 - $75,000 a year"
-,Stevens Engineers and Constructors,Project Controls Analyst,
-,Dow Jones,"Data Engineer, Newsroom Data Products",
-,Backer-Springfield (Backer EHP Inc.),Network Analyst,
-,Amfuel,Cost/Schedule Analyst,"$50,000 a year"
-,Alliant Energy,Senior Data Warehouse/Data Modeling Analyst,
+"Wayne, PA 19087","Pathfinders, Inc.",Data Analyst- Underwriting Assistant,$17 an hour
+"Feasterville-Trevose, PA","VSE, Inc.",Data Analyst,
+"Philadelphia, PA",University of Pennsylvania,Neuroimaging Data Analyst Junior,
+"Timonium, MD",Big Huge Games,Lead Data Analyst,
+"New York, NY",Vettery,Data Analyst,
+"Philadelphia, PA",Neat,Junior Business Analyst,
+"Philadelphia, PA",University of Pennsylvania,Data Analyst,
+"King of Prussia, PA 19406",Keane,Junior Sales Analyst,
+"Newtown Square, PA",SAP,"Intern, High Growth Data Analyst",
+"Philadelphia, PA 19112 (Navy Yard area)",GSK,"Finance Analyst, US Pharma",
+"Baltimore, MD",Epathusa INC,Health Data Analyst Remote,"$99,000 - $100,000 a year"
+"South Plainfield, NJ 07080",Admera Health,Data Analyst,
+"New York, NY 10004 (Financial District area)",impakt Advisors,Entry Level Data Analyst,
+"King of Prussia, PA",UHS Corporate Office,Data Control Assistant (Data Analyst) *Opportunities Available*,
+"Philadelphia, PA",AmeriHealth Caritas,Network Operation Analyst PRX,
+"Baltimore, MD 21202 (Barclay area)",Baltimore City Public Schools,Data Analyst - School Support,"$65,908 a year"
+"Philadelphia, PA 19106 (Old City area)",Federal Reserve Bank of Philadelphia,Capital Markets Associate/Analyst,
+"New Brunswick, NJ",Rutgers University,Data Analyst,
+"Allentown, PA 18103",Lehigh Valley Health Network,CRM Data Analyst,
+"New York, NY",First Notch Technology LLC,Entry Level Business Analyst,$28 - $35 an hour
+,VIRTUA,Investigation Data Analyst - Privacy / HIPAA exp. required,
+,Unity Technologies Corporation,Functional / Business Analyst,
+,CIMI Behavior Analytic Solutions,Board Certified Behavior Analyst (BCBA),"$50,000 - $60,000 a year"
+"New York, NY 10016 (Murray Hill area)",AETNA,Data Science Analyst,
+"Princeton, NJ 08542",TGS Management Company,Data Quality Analyst,
+"New York, NY 10018 (Clinton area)",The Trevor Project,Data Analyst,
+"New York, NY",Bloomberg,"Data Analyst - Environmental, Social, and Governance",
+"New York, NY",New York City POLICE DEPARTMENT,Research and Data Analyst,"$75,504 - $86,830 a year"
+"New York, NY 10005 (Financial District area)",The Buttonwood Tree,Data Science Intern,
+"King of Prussia, PA",Greenphire,Data Analyst II,
+"New York, NY 10279 (Tribeca area)",Vera Institute of Justice,"Data Analyst, Center on Immigration and Justice (CIJ)",
+"Marlton, NJ 08053",Freedom Mortgage,Data Governance Analyst,
+"Leola, PA 17540",Ross Technology,IT Data Analyst,"$65,000 - $75,000 a year"
+"Philadelphia, PA 19019 (Somerton area)",Thermo Fisher Scientific,Data Scientist,
+"Kearny, NJ","TekEdge Solution, INC.",Data Analyst,"$65,000 - $80,000 a year"
+,IEH Laboratories,"Laboratory Analyst - Night Shift (Bloomsburg, PA)",
+"New York, NY",BlueLabs Analytics,Data Analyst - NY,
+"Philadelphia, PA 19106 (Society Hill area)",Chubb,Actuarial Analyst - Global Analytics,
+"Wayne, PA 19087",Eastern Airlines LLC,Business Analyst - Data and Analytics,"$75,000 - $85,000 a year"
+"Hunt Valley, MD",Alderson Loop,Data Analyst,
+"King of Prussia, PA 19406",CluePoints,Clinical Data Analyst (US),
+"Philadelphia, PA 19107 (Old City area)",Community Behavioral Health,Sr. Data Analyst,
+"Owings Mills, MD",Alderson Loop,Market Research Data Analyst,
+"Metuchen, NJ 08840","Franco Manufacturing Co., Inc.",Sales Analyst,
+"Philadelphia, PA 19107 (Washington Square area)",Wodify,Business Analyst,
+"Fairfield, NJ 07004",Jay Hill Repairs,Data Analyst,"$45,000 - $55,000 a year"
+,Community Development Corp of Long Island,Data Analyst,$22 - $35 an hour
+,utiliVisor,Billing Analyst,
+,BrightFarms,Financial Analyst,"$60,000 - $80,000 a year"
+,Fordham University,Senior Systems Analyst,
+,Marathon Energy Corporation,Energy Analyst,
+,Marathon Energy Corporation,"Energy Analyst (Syracuse or Buffalo, NY)",
+,Confidential - AML Analyst,AML Analyst,$50 an hour
+"Williamsville, NY 14221",AlignRx,Data Analyst,
+New York State,Citizen,Data Analyst,
+"Hicksville, NY",Vaco,Data Analyst,"$60,000 - $70,000 a year"
+"New York, NY",Vericred,Data Analyst - Healthcare Provider Networks and Formularies,
+New York State,Vee Search,Data Scientist Summer Internship (REMOTE),
 ,"Paulson Investment Company, LLC",Investment Banking Analyst (Life Science),"$40,000 - $90,000 a year"
-,Comerica Bank,Technical Data Analytics Principal Engineer,
-,Mid-Delta Durable Medical Equipment,DME Billing Analyst,
-,"Suracy Insurance Agency, Inc.",Senior Data Analyst,
-,InterVarsity Christian Fellowship,Data Quality Analyst,"$43,000 - $58,000 a year"
-,Collection Experts Inc,Data Analyst/Helpdesk,
-,Bath Community Hospital,Revenue Integrity Analyst,
-,DTSV,Data Analyst,
+"Amherst, NY 14226",AAA of Western & Central NY,Data Analyst,
+"New York, NY",Talent Bundle LLC,Financial Data Analyst,"$88,000 - $130,000 a year"
+New York State,Corsearch,Data Analyst,
+"New York, NY 10010 (Flatiron District area)",FanDuel,Reporting Data Analyst,
+"New York, NY",Prospect 33,Data Science Intern,
+,Well Woven Inc.,Procurement Analyst,
+,"Golden Krust Franchising, Inc.",Supply Chain Analyst,"$60,000 - $70,000 a year"
+"New York, NY",The New York Times,"Data and Insights Analyst, Subscription Growth",
+"New York, NY",YAI - Seeing Beyond Disability,Senior Data Analyst,
+"New York, NY 10017 (Murray Hill area)",Consulting at McCann Health,Temporary Data Analyst,$20 an hour
+"New York, NY",Bloomberg,Legal Data Analyst,
+"New York, NY",Mount Sinai,Data Analyst I - Division of Infectious Disease,
+"New York, NY 10007 (Tribeca area)",Relevant Healthcare Technologies,Health Center Data Analyst,
+"New York, NY",Newspaper Administration,Data Analyst,
+"Brooklyn, NY 11206 (Williamsburg area)",Madwell,Freelance Data Analyst,
+"New York, NY",Pacific Investment Management Company LLC,Data Science Associate,
+"New York, NY 10036 (Garment District area)",Ampersand,Data Science Engineer,"$100,000 - $200,000 a year"
+"Ithaca, NY",Cayuga Medical Center,Data Analyst (CHI),
+"New York, NY",Long Term Stock Exchange (LTSE),Data Analyst,
+"Brooklyn, NY 11201",Etsy,Data Scientist,
+"New York, NY","KGS Technology Group, Inc.",Entry Level Data Analyst & Data Engineer,"$55,000 - $60,000 a year"
+"Manhattan, NY",VISITING NURSE SERVICE OF NEW YORK,Data Scientist Intern,
+,Mavis Discount Tire,Senior Marketing Specialist Data & Analytics,
+,Olean Area Federal Credit Union,Security Analyst,
+"New York, NY 10005 (Financial District area)","Paulson Investment Company, LLC",Investment Banking Analyst (Life Science),"$40,000 - $90,000 a year"
+"New York, NY",Mills College,Business Analyst,"$68,000 - $73,000 a year"
+"New York, NY",Center For Policing Equity,Data Associate,
+"Liverpool, NY 13090",Raymour and Flanigan,Business Intelligence Data Analyst,
+"New York, NY",Tehrit Inc.,Data Lineage Developer,$70 - $80 an hour
+"New York, NY 10022 (Midtown area)",FAJ Financial,Investment Performance Analyst,"$175,000 - $250,000 a year"
+"New York, NY",New York Life Insurance Co,Data Analyst,
+"Centereach, NY 11720",Community Development Corp of Long Island,Data Analyst,$22 - $35 an hour
+"New York, NY",Source Enterprises,Data Scientist,
+"New York, NY 10036 (Midtown area)",Brink's Incorporated,Data Processing & Performance Analyst,
+,Mphasis,Contractor,
+"New York, NY",The New York Times,Data Scientist,
+"Ronkonkoma, NY 11779",Perfume Center of America,DATA ANALYST,
+"Albany, NY 12208 (Whitehall area)","Research Foundation for Mental Hygiene, Inc.",Data Scientist,"$69,550 a year"
+"New York, NY",Peloton,Supply Chain Data Analyst,
+"New York, NY 10017 (Midtown area)",Mathison,Financial Data Analyst - NYC,"$80,000 - $112,590 a year"
+"Rochester, NY",University of Rochester,"Data Analyst Programmer, Multiphoton Core",
+"East Syracuse, NY 13057",KPH Healthcare Services,Business Data Analyst,
+"New York, NY",Tishman Speyer,Data Analyst / Junior ML Analyst – Data Analytics,
+"New York, NY 10001 (Flatiron District area)",Nutrafol,Data Analyst (Temporary Assignment),
+"Queens, NY 11101",New York City DEPT OF HEALTH/MENTAL HYGIENE,Data Analyst,"$55,473 - $68,898 a year"
+,Mphasis,Data Science Specialist USA,
+"Monroe, NY","RRGP, Inc",Jr ETL Data Warehouse Modeling Developer,"$65,000 - $75,000 a year"
+"Brooklyn, NY 11201",Etsy,"Data Scientist, Analytics",
+New York State,ABI Research,Graduate Research Analyst - New York,
+"New York, NY",RSG Media,Junior Business Analyst,
+"New York, NY",Known,Senior Data Analyst,
+"Wyandanch, NY",Federation of Organizations,Data Analyst,
+"New York, NY 10017 (Turtle Bay area)",Guidepoint Global,"Healthcare Data Analyst, Qsight",
+"New York, NY 10038 (Financial District area)",Endai,Data Analyst Entry Level,
+"New York, NY",Ace-stack LLC,Healthcare Data/Reporting Analyst,$125 a day
+"New York, NY 10014 (West Village area)",Museum of Ice Cream,People Operations & Data Analyst,
