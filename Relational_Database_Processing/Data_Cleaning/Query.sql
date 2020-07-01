@@ -34,9 +34,6 @@ WHERE "City" IN
 	(
 		SELECT city
 		From company_salary
-		WHERE company = 'Liberty Mutual Insurance'
+		WHERE company = 'Apple'
 	)
 );
-
-
-
