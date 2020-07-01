@@ -1,90 +1,416 @@
 location,company,title,salary,city,company_id,index
- Los Angeles,"Resolute Management, Inc.",Quantitative Analyst,"$50,000 - $60,000 a year", Los Angeles,0,0
- Los Angeles,Aldi,Data Analytics Specialist,"$62,000 a year", Los Angeles,1,1
- Los Angeles,First Notch Technology,Data Analyst with sql,$22 an hour, Los Angeles,2,2
- Los Angeles,Aldi,Data Analytics Associate II,$26.25 an hour, Los Angeles,1,3
- Los Angeles,Private,Data Analyst,$13 an hour, Los Angeles,3,4
- Los Angeles,Integrated Services of Kalamazoo,Data Analyst,Unknown, Los Angeles,4,5
-"Detroit, MI 48202 (New Center area)",DPSCD,"Program Associate I, Data Analyst",$64.50 an hour,Detroit,5,6
-"Livonia, MI 48152",AccumTech,Data Analyst,"$55,000 - $85,000 a year",Livonia,6,7
-"Detroit, MI",VROOM,Data Analyst,Unknown,Detroit,7,8
-"Detroit, MI 48216 (Briggs area)",MICHIGAN CONFERENCE OF TEAMSTERS WELFARE FUND,Claims Data Analyst Healthcare,$18 - $22 an hour,Detroit,8,9
-"Newport Beach, CA",Lyceum Dynamics,Data Analyst,$40 - $50 an hour,Newport Beach,9,10
-"Orlando, FL 32801 (Central Business District area)",Change Everything Inc.,Data Analyst Intern,Unknown,Orlando,10,11
-"Bloomfield Hills, MI 48302",Common Ground,Data Analyst - Full-Time (Non-Exempt),Unknown,Bloomfield Hills,11,12
-"Detroit, MI",General Motors,Data Analyst for Enterprise Integration Intern,Unknown,Detroit,12,13
-"Detroit, MI 48226 (Downtown area)",Quicken Loans,Data Solutions Analyst,Unknown,Detroit,14,15
- Los Angeles,"Michigan Planners, Inc.",Employee Benefits Plan Analyst,Unknown, Los Angeles,15,16
- Los Angeles,Maschmeyer Concrete Company of Florida,Data Analyst,Unknown, Los Angeles,16,17
- Los Angeles,JND Legal Administration,Data Analyst,"$60,000 - $80,000 a year", Los Angeles,17,18
- Los Angeles,Starr and Associates,Data Analyst,"$80,000 - $106,242 a year", Los Angeles,18,19
- Los Angeles,"Deacom, Inc.",Data Specialist,"$60,000 - $95,000 a year", Los Angeles,19,20
- Los Angeles,"Decision Information Resources, Inc",Senior Data Analyst,"$80,000 - $115,000 a year", Los Angeles,20,21
- Los Angeles,Christie Campus Health,Data Research Analyst,$23 - $28 an hour, Los Angeles,21,22
- Los Angeles,"Prime MSO, LLC.",Jr. Data Analyst (Jr. DA),"$38,000 - $60,000 a year", Los Angeles,22,23
- Los Angeles,Qi Venture Partners,Research & Data Analyst,"$50,000 - $65,000 a year", Los Angeles,23,24
- Los Angeles,County of Washington,Data Analyst II,$17.88 an hour, Los Angeles,24,25
- Los Angeles,Amida Technology Solutions,Data Analyst,Unknown, Los Angeles,25,26
- Los Angeles,Wellview Health,Business Intelligence Analyst,"$65,000 - $90,000 a year", Los Angeles,26,27
- Los Angeles,Team Velocity,Mid-Level Data Analyst,Unknown, Los Angeles,27,28
- Los Angeles,Columbia Marking Tools,Customer Service/Data Entry,$14 - $15 an hour, Los Angeles,28,29
- Los Angeles,"Asset Protection Unit, Inc.",Overpayment Data Analyst/Programmer,"$70,000 - $100,000 a year", Los Angeles,29,30
- Los Angeles,Liberty Mutual Insurance,Principal Data Analyst,"$110,900 - $143,500 a year", Los Angeles,30,31
- Los Angeles,"Edge Pharma, LLC.",QC Microbiology Analyst,Unknown, Los Angeles,31,32
- Los Angeles,Delta Research Inc,Tactical Data Link Analyst,Unknown, Los Angeles,32,33
- Los Angeles,CNS Healthcare,Business Analyst,Unknown, Los Angeles,33,34
- Los Angeles,Brook Valley Management,Retail Data Analyst,"$60,000 - $75,000 a year", Los Angeles,34,35
- Los Angeles,Auxilior Capital Partners,Senior Credit Analyst,"$65,000 - $75,000 a year", Los Angeles,35,36
- Los Angeles,Stevens Engineers and Constructors,Project Controls Analyst,Unknown, Los Angeles,36,37
- Los Angeles,Dow Jones,"Data Engineer, Newsroom Data Products",Unknown, Los Angeles,37,38
- Los Angeles,Backer-Springfield (Backer EHP Inc.),Network Analyst,Unknown, Los Angeles,38,39
- Los Angeles,Amfuel,Cost/Schedule Analyst,"$50,000 a year", Los Angeles,39,40
- Los Angeles,Alliant Energy,Senior Data Warehouse/Data Modeling Analyst,Unknown, Los Angeles,40,41
- Los Angeles,"Paulson Investment Company, LLC",Investment Banking Analyst (Life Science),"$40,000 - $90,000 a year", Los Angeles,41,42
- Los Angeles,Comerica Bank,Technical Data Analytics Principal Engineer,Unknown, Los Angeles,42,43
- Los Angeles,Mid-Delta Durable Medical Equipment,DME Billing Analyst,Unknown, Los Angeles,43,44
- Los Angeles,"Suracy Insurance Agency, Inc.",Senior Data Analyst,Unknown, Los Angeles,44,45
- Los Angeles,InterVarsity Christian Fellowship,Data Quality Analyst,"$43,000 - $58,000 a year", Los Angeles,45,46
- Los Angeles,Collection Experts Inc,Data Analyst/Helpdesk,Unknown, Los Angeles,46,47
- Los Angeles,Bath Community Hospital,Revenue Integrity Analyst,Unknown, Los Angeles,47,48
- Los Angeles,DTSV,Data Analyst,Unknown, Los Angeles,48,49
- Los Angeles,Soaren Management,Data Scientist,Unknown, Los Angeles,49,50
- Los Angeles,SubjectWell,Data Scientist,Unknown, Los Angeles,50,51
- Los Angeles,Global Fishing Watch,Data Scientist,$45 - $65 an hour, Los Angeles,51,52
-"Lansing, MI 48917",Pearson,Data Scientist,Unknown,Lansing,52,53
- Los Angeles,Amida Technology Solutions,Data Scientist,Unknown, Los Angeles,25,54
- Los Angeles,Brinks Home Security™,Data Scientist,"$90,000 - $98,000 a year", Los Angeles,53,55
- Los Angeles,Blue Owl,Data Scientist,"$250,000 - $375,000 a year", Los Angeles,54,56
-"Ypsilanti, MI 48198 (Depot Town area)",Methods Consultants,Assistant Data Scientist,Unknown,Ypsilanti,55,57
- Los Angeles,Pathrise,Data Scientist Entry Level - Pathrise Recruiting Partners,Unknown, Los Angeles,56,58
- Los Angeles,Pathrise,Junior Data Scientist - Pathrise Recruiting Partners,Unknown, Los Angeles,56,59
-"Bloomington, IN",DataSprouts,Junior Data Scientist,Unknown,Bloomington,57,60
-"Austin, TX 78712 (University of Texas area)",University of Texas at Austin,Remote Sensing Data Scientist,Unknown,Austin,58,61
-"Alpharetta, GA",Quest America,Data Scientist,$65 - $70 an hour,Alpharetta,59,62
-"Dearborn, MI",Ford Motor Company,Data Scientist,Unknown,Dearborn,60,63
- Los Angeles,"Curative Inc,",Sr. Data Scientist,Unknown, Los Angeles,62,65
- Los Angeles,Lyteworx Automation Systems,Data Scientist,"$160,000 - $175,000 a year", Los Angeles,63,66
- Los Angeles,HP,Data Scientist (Sales and Marketing),Unknown, Los Angeles,64,67
- Los Angeles,Intuit,Staff Data Scientist,Unknown, Los Angeles,65,68
- Los Angeles,Specific Diagnostics,"Data Scientist, Medical Diagnostics",Unknown, Los Angeles,66,69
- Los Angeles,Intuit,Staff Data Scientist - Analytics,Unknown, Los Angeles,65,70
-"Alvin, TX","RiceTec, Inc.",Data Scientist - Production Research,Unknown,Alvin,67,71
- Los Angeles,Northrop Grumman,Data Scientist,Unknown, Los Angeles,68,72
- Los Angeles,"Skafos, LLC",Machine Learning Engineer,Unknown, Los Angeles,69,73
- Los Angeles,SullivanCotter,Data Scientist Architect,Unknown, Los Angeles,70,74
- Los Angeles,National Geospatial-Intelligence Agency,Data Scientist (Mid-Level),"$64,948 - $133,465 a year", Los Angeles,71,75
- Los Angeles,Aegis Premier Technologies,Data Scientist / Predictive Analytics Professional,Unknown, Los Angeles,72,76
- Los Angeles,Intuit,Senior Data Scientist,Unknown, Los Angeles,65,77
- Los Angeles,"ENSCO, Inc.",Data Scientist,Unknown, Los Angeles,73,78
- Los Angeles,Johns Hopkins Applied Physics Laboratory (APL),Data Scientist,Unknown, Los Angeles,74,79
- Los Angeles,Blackwatch International Corporation,Data Scientist,Unknown, Los Angeles,75,80
- Los Angeles,GEICO,Senior Data Scientist,Unknown, Los Angeles,76,81
- Los Angeles,Perspecta Labs,Machine Learning Research Scientist,Unknown, Los Angeles,77,82
-"Oakland, CA",Global Fishing Watch,Data Scientist,$45 - $65 an hour,Oakland,51,83
-"Redmond, WA",Microsoft,Full Time Opportunities for Students or Recent Graduates: Data & Applied Sciences,Unknown,Redmond,78,84
-"Denver, CO 80202 (Union Station area)",McKinsey & Company,"Data Scientist, Agriculture and Commodities",Unknown,Denver,79,85
-"Washington, DC 20006 (Downtown area)",FARMER MAC,Data Scientist,Unknown,Washington,80,86
- Los Angeles,GeneDx,Senior Genomic Data Scientist,Unknown, Los Angeles,81,87
- Los Angeles,Northrop Grumman,Sr. Principal Data Scientist,Unknown, Los Angeles,68,88
- Los Angeles,Humana,Lead Data Scientist,Unknown, Los Angeles,82,89
- Los Angeles,PayPal,Data Scientist,Unknown, Los Angeles,83,90
+ Los Angeles,Fluid Truck Share,Data Engineer,Unknown, Los Angeles,0,0
+ Los Angeles,Mindcolor Autism,Lead Board Certified Behavior Analyst (BCBA),Unknown, Los Angeles,1,1
+ Los Angeles,SPECTRUM,Network Operations Analyst II - Inventory Management,Unknown, Los Angeles,2,2
+ Los Angeles,SPECTRUM,Systems Engineer II - Application Analyst,Unknown, Los Angeles,2,3
+"Denver, CO","Edison Software, Inc.",Data Analyst,Unknown,Denver,4,5
+"Denver, CO 80202 (Lodo area)",FJA-US Inc.,Data Analyst,Unknown,Denver,6,7
+"Denver, CO",Indian Health Service,"Associate Education Research Scientist/Analyst, AD-1730-00","$72,000 - $101,000 a year",Denver,5,8
+"Denver, CO 80206 (Cherry Creek area)",Brilliant Earth,"Business Analyst, Denver",Unknown,Denver,8,10
+"Denver, CO 80203 (North Capitol Hill area)",State of Colorado Job Opportunities,Healthcare-Associated Infections Surveillance Data Analyst - 2452,"$58,764 - $86,004 a year",Denver,10,12
+"Denver, CO 80206 (Cherry Creek area)",Brilliant Earth,"Analyst, Merchandising & Inventory Planning",Unknown,Denver,8,13
+ Los Angeles,SPECTRUM,Senior Data Scientist,Unknown, Los Angeles,2,14
+ Los Angeles,A-1 Careers,GIS Analyst,Unknown, Los Angeles,11,15
+ Los Angeles,Millennium Hotels & Resorts,Financial Analyst,"$60,000 - $70,000 a year", Los Angeles,12,16
+ Los Angeles,USAA,Deposits Product Management Analyst - Mid Level,Unknown, Los Angeles,13,17
+ Los Angeles,National Geospatial-Intelligence Agency,Source Strategies Analyst,"$100,027 - $153,659 a year", Los Angeles,14,18
+ Los Angeles,USAA,Learning and Development Evaluation Analyst II,Unknown, Los Angeles,13,19
+ Los Angeles,USAA,Decision Science Analyst II,Unknown, Los Angeles,13,20
+"Denver, CO 80206 (Cherry Creek area)",Brilliant Earth,"Financial Planning & Analysis Analyst, Denver",Unknown,Denver,8,21
+"Denver, CO 80202 (Union Station area)",Autodesk,Inside Sales Data Analyst,Unknown,Denver,15,22
+"Denver, CO",Indian Health Service,"Education Research Scientist/Analyst, AD-1730-00","$102,000 - $140,000 a year",Denver,5,23
+"Denver, CO 80216 (Five Points area)",CirrusMD,Data Analyst,Unknown,Denver,17,25
+"Denver, CO",Course5 Intelligence,Data Engineering and Data Science Resource,Unknown,Denver,18,26
+"Denver, CO",xentity corporation,Data Analyst,Unknown,Denver,21,29
+"Denver, CO 80202 (Union Station area)",DISH,Systems Business Analyst,Unknown,Denver,24,32
+"Denver, CO",Wakely Consulting Group LLC,Healthcare Data Analyst,Unknown,Denver,25,33
+"Denver, CO 80204 (Civic Center area)",US Department of Education,"Associate Education Research Scientist/Analyst, AD-1730-00","$72,000 - $101,000 a year",Denver,29,38
+"Denver, CO 80202 (Central Business District area)",Ibotta,Senior Data Quality Analyst,Unknown,Denver,30,39
+"Denver, CO 80202 (Lodo area)",FJA-US Inc.,"Business Analyst, Healthcare",Unknown,Denver,6,41
+"Denver, CO",Stantec,"Business Analyst, Oracle HR/HCM",Unknown,Denver,32,43
+"Denver, CO",Disys,BIDW Business Analyst,$60 - $65 an hour,Denver,33,45
+"Denver, CO 80206 (Congress Park area)",National Jewish Health,Bioinformatics Analyst I,Unknown,Denver,38,50
+"Denver, CO 80204 (Civic Center area)",US Department of Education,"Education Research Scientist/Analyst, AD-1730-00","$102,000 - $140,000 a year",Denver,29,51
+"Denver, CO",Franklin Energy,Inside Sales Analyst,Unknown,Denver,40,55
+"Denver, CO 80202 (Union Station area)",DaVita,Business Analyst - Compensation,Unknown,Denver,43,58
+"Denver, CO 80211 (Highland area)","Teliax, Inc.",Business Analyst II,Unknown,Denver,44,59
+"Denver, CO 80202 (Union Station area)","IMA Financial Group, Inc.",Account Analyst (Employee Benefits),Unknown,Denver,45,60
+"Denver, CO 80230 (Lowry Field area)",Innovage,Real Estate Analyst,Unknown,Denver,47,62
+"Denver, CO 80225",Sanborn Map Company,Geospatial Data Management Specialist,"$65,000 - $110,000 a year",Denver,48,63
+"Denver, CO 80202 (Union Station area)",AirDNA,Data Scientist,Unknown,Denver,50,65
+"Denver, CO 80237 (Hampden South area)",PHOENIX,TRID/Compliance/Post-Close Due Diligence Analyst,Unknown,Denver,52,67
+"Denver, CO 80246 (Southeastern Denver area)","Behavior Change Institute, LLC.",Board Certified Behavior Analyst (BCBA) Clinician (TeleHealth),Unknown,Denver,53,68
+"Denver, CO 80221 (Regis area)",Regis University,Business Intelligence Analytics Developer,"$53,000 - $58,000 a year",Denver,54,69
+"Denver, CO",Cardinal Group Companies,Sr. Financial Planning and Analysis Analyst,Unknown,Denver,58,73
+"Denver, CO",American AgCredit,Portfolio Monitoring Analyst,Unknown,Denver,59,74
+"Denver, CO",Paladina Health / Activate Healthcare,Sales Support Analyst,Unknown,Denver,61,76
+"Denver, CO",University of Colorado Denver I Anschutz,BI Analyst/Developer,"$80,000 - $84,500 a year",Denver,64,79
+ Los Angeles,"Public Trust Advisors, LLC",Credit Research Analyst,Unknown, Los Angeles,66,81
+ Los Angeles,McLane Global,Data Analyst,"$65,000 - $85,000 a year", Los Angeles,67,82
+ Los Angeles,CTG,Sr. Business Analyst,$55.00 - $62.50 an hour, Los Angeles,68,83
+ Los Angeles,First Service Credit Union,Credit Analyst,Unknown, Los Angeles,78,94
+ Los Angeles,Immatics US,Quality Control Analyst,Unknown, Los Angeles,79,95
+ Los Angeles,"Commercial Beverage Concepts, LLC",Warehouse Financial Analyst,"$110,000 - $120,000 a year", Los Angeles,80,96
+ Los Angeles,Cordialsa USA,Jr. Trade Marketing Analyst,Unknown, Los Angeles,81,97
+ Los Angeles,"Biourja Power, LLC","Power Analyst - Houston, TX",Unknown, Los Angeles,82,98
+ Los Angeles,Ford & Sweeney Support Services,Risk Coordinator/Analyst Intermediate,$25 - $35 an hour, Los Angeles,83,99
+ Los Angeles,Energy Transfer Family of Partnerships,Lead Specialist - IT Technical Business Analyst - NGL Commercial Applications,Unknown, Los Angeles,94,110
+ Los Angeles,Confidential,Inventory Cost Analyst,$20 - $25 an hour, Los Angeles,95,111
+ Los Angeles,Cornerstone Preferred Resources,Medical Claims Analyst,$19 - $24 an hour, Los Angeles,129,147
+ Los Angeles,Gather Resources,Risk Analyst,$18 - $24 an hour, Los Angeles,137,157
+ Los Angeles,USAA,Business Intelligence Analyst II - Bank Leadership,Unknown, Los Angeles,13,158
+ Los Angeles,Idexcel,Big Data Engineer/Architect,Unknown, Los Angeles,138,159
+ Los Angeles,Unity Search,AR & AP Analyst (Job #103451),Unknown, Los Angeles,139,160
+ Los Angeles,Moneygram,DevOps Engineer,Unknown, Los Angeles,140,161
+ Los Angeles,Citi,Apps Dev Senior Programmer Analyst,Unknown, Los Angeles,141,162
+ Los Angeles,USAA,"Lead, Risk Analyst - Enterprise Operational Risk - IT",Unknown, Los Angeles,13,163
+ Los Angeles,USAA,Sr. Quantitative Risk Analyst - Credit Card Portfolio,Unknown, Los Angeles,13,174
+ Los Angeles,USAA,Reporting Analyst I (Enterprise Model Risk Management),Unknown, Los Angeles,13,175
+ Los Angeles,CommScope,Sales Analyst,Unknown, Los Angeles,150,176
+ Los Angeles,USAA,Quantitative Risk Analyst I - Credit Card Portfolio,Unknown, Los Angeles,13,187
+ Los Angeles,USAA,Risk Analyst I - Enterprise Risk & Projects,Unknown, Los Angeles,13,188
+ Los Angeles,Newport Medical Solutions,AR Analyst,$18 - $21 an hour, Los Angeles,160,189
+ Los Angeles,SHOEBACCA,Application Support Analyst II,"$45,000 - $52,000 a year", Los Angeles,161,190
+ Los Angeles,CBRE,Senior Benefits Analyst,Unknown, Los Angeles,116,201
+ Los Angeles,"SUNSET LOGISTICS, INC",Data/Financial Analyst,"$60,000 - $75,000 a year", Los Angeles,151,222
+ Los Angeles,Bloomfield Homes,Accounting/Data programming Associate,$13 - $25 an hour, Los Angeles,189,223
+ Los Angeles,Citi,Client Service Sr. Analyst,Unknown, Los Angeles,141,242
+ Los Angeles,Public Health Institute,Data Analyst (Time-Limited),Unknown, Los Angeles,204,243
+ Los Angeles,Topcon Positioning Systems,Senior Business Analyst (Bilingual English and Japanese),Unknown, Los Angeles,205,244
+ Los Angeles,First Republic Bank,SOX BP Senior Analyst,Unknown, Los Angeles,206,245
+ Los Angeles,SELLBYTEL,"Sr. Business Intelligence Analyst, Google Cloud",Unknown, Los Angeles,215,256
+ Los Angeles,UpNest,Product Analyst (Power BI),"$78,000 - $85,000 a year", Los Angeles,216,257
+"Oakland, CA",LaunchDarkly,Data Analyst,Unknown,Oakland,217,258
+ Los Angeles,"delta computer solutions, inc. www.deltacs.com",Systems Analyst - Behavioral Health (myAvatar),$45 - $65 an hour, Los Angeles,226,268
+ Los Angeles,Any QA,Software Development Engineer in Test (SDET) - Data Quality,"$115,000 - $135,000 a year", Los Angeles,227,269
+ Los Angeles,"Association For Energy Affordability, Inc.",Energy Analyst,Unknown, Los Angeles,232,275
+ Los Angeles,"delta computer solutions, inc. www.deltacs.com",Epic Analyst - Whole Person Care,$40 - $70 an hour, Los Angeles,226,276
+ Los Angeles,GPS CAPITAL MANAGEMENT,Office Manager / Research Analyst,"$50,000 a year", Los Angeles,241,287
+ Los Angeles,Entelligence IT,Sr. Business Analyst - VMware,"$125,000 a year", Los Angeles,250,298
+ Los Angeles,Idemitsu Renewables,Project Finance Analyst,Unknown, Los Angeles,251,299
+"Oakland, CA",Sutter Health,Enrollment & Student Services Data & Systems Operations Analyst,Unknown,Oakland,262,311
+"Oakland, CA 94607 (Acorn-Acorn Industrial area)",University of California Office of the President,ITS Data Services Intern (4920),$20 an hour,Oakland,263,313
+ Los Angeles,MUFG,Project Regulatory/Risk Data Analyst,Unknown, Los Angeles,274,325
+ Los Angeles,MUFG,Sr Data Analyst,Unknown, Los Angeles,274,326
+ Los Angeles,MUFG,Data Analyst,Unknown, Los Angeles,274,337
+ Los Angeles,"Daman, Inc.",Data Engineer,"$100,000 - $130,000 a year", Los Angeles,285,338
+ Los Angeles,USAA,Quantitative Risk Analyst - Advanced Level,Unknown, Los Angeles,13,349
+ Los Angeles,Sonoran Plumbing Supply,Pricing Analyst,"$30,508 - $50,518 a year", Los Angeles,295,350
+ Los Angeles,USAA,Business Support Analyst Senior - QA Oversight,Unknown, Los Angeles,13,371
+ Los Angeles,"IT Partners,Inc",Data Scientist,Unknown, Los Angeles,337,412
+ Los Angeles,Lakefield Veterinary Group,Pricing Analyst,$20 - $25 an hour, Los Angeles,338,413
+ Los Angeles,American Capital Group,Investment Analyst,"$80,000 - $85,000 a year", Los Angeles,339,414
+ Los Angeles,"CAF, INC.",Sales Operations Analyst,Unknown, Los Angeles,340,415
+"Redmond, WA",Rational,Data Analyst,Unknown,Redmond,341,417
+"Redmond, WA",Microsoft,Data Analyst,Unknown,Redmond,348,424
+ Los Angeles,"SRSM, Inc.",Business Systems Analyst/End User Support,Unknown, Los Angeles,350,426
+ Los Angeles,Bristol-Myers Squibb,"Logistics Analyst, Global Cell Therapy",Unknown, Los Angeles,351,427
+ Los Angeles,Costco Wholesale,Treasury Systems Analyst,Unknown, Los Angeles,352,428
+"Redmond, WA 98052 (Overlake area)",Nayamode,Power BI/data Analyst,Unknown,Redmond,358,435
+"Redmond, WA",Microsoft,Full Time Opportunities for PhD Students or Recent Graduates: Data & Applied Sciences,Unknown,Redmond,348,438
+"Redmond, WA 98052 (SE Redmond area)",User Research International,Market Research Analyst,"$60,000 - $70,000 a year",Redmond,360,439
+"Redmond, WA",Highbrow LLC,Data Analyst,Unknown,Redmond,363,442
+"Redmond, WA",Highbrow LLC,Data Analyst – SQL / Big Data,Unknown,Redmond,363,444
+"Redmond, WA",Highbrow LLC,SQL Developer / Data Analyst,Unknown,Redmond,363,447
+ Los Angeles,DigniFi,Director of Business Intelligence and Analytics,Unknown, Los Angeles,369,454
+"Redmond, WA 98052",Zen3 Info Solutions,SEO/ Data analyst,Unknown,Redmond,371,456
+"Redmond, WA",Neal Analytics,IT Helpdesk Analyst,$25 an hour,Redmond,372,458
+ Los Angeles,IEH Laboratories,"Laboratory Analyst - 12hr Rotating Night Shift (Cashmere, WA)",Unknown, Los Angeles,377,465
+"Redmond, WA 98052",Course5 Intelligence,Market Research Data Analyst,Unknown,Redmond,18,469
+"Redmond, WA",BiSoft,Systems Data Analyst,"$85,000 a year",Redmond,381,471
+ Los Angeles,T-Mobile,Sr Business Analysis Manager,Unknown, Los Angeles,385,476
+"Redmond, WA 98052 (Rose Hill area)",Aerojet Rocketdyne,Data Reduction Analyst,Unknown,Redmond,387,478
+"Redmond, WA",BiSoft,Business Analyst,"$90,000 a year",Redmond,381,481
+"Redmond, WA 98052 (SE Redmond area)",Pushpay,Business Analyst,Unknown,Redmond,391,484
+ Los Angeles,Native American Rehabilitation Association (NARA),Billing Data Analyst,Unknown, Los Angeles,394,487
+ Los Angeles,OIA Global,HCMS Business Systems Analyst,Unknown, Los Angeles,416,513
+ Los Angeles,Portland Public Schools,Senior Finance Systems Analyst,"$81,620 - $97,459 a year", Los Angeles,417,514
+ Los Angeles,OmniData Insights,Data Engineer,Unknown, Los Angeles,419,516
+ Los Angeles,Atlas Management,Development Analyst,"$45,000 - $50,000 a year", Los Angeles,420,517
+ Los Angeles,The Standard,Disability Benefits Analyst,Unknown, Los Angeles,421,518
+ Los Angeles,BICP,Sr. Data Engineer,"$120,000 - $140,000 a year", Los Angeles,429,529
+ Los Angeles,ShopLadder.com,Strategic Data Analyst - E-Commerce - Excel Guru a must,Unknown, Los Angeles,447,560
+ Los Angeles,"Palm Beach Accountable Care Organization, LLC",Healthcare Data Analyst (Accountable Care Organization),Unknown, Los Angeles,448,561
+ Los Angeles,IBERIA FOODS,Strategic Business Analyst -1,Unknown, Los Angeles,449,562
+ Los Angeles,ImmigrationEngine,Senior Digital Marketing Analyst,"$42,000 - $57,000 a year", Los Angeles,458,573
+ Los Angeles,HCW Biologics Inc.,Quality Control Analyst,Unknown, Los Angeles,468,584
+ Los Angeles,Citi,Global Investigations Unit Compl AML Intel Sr Analyst,Unknown, Los Angeles,141,585
+ Los Angeles,Therapies 4 Kids,Board Certified Assistant Behavior Analyst,"$45,000 - $60,000 a year", Los Angeles,501,620
+ Los Angeles,The Learning Center at The Els Center of Excellence,Board Certified Behavior Analyst,Unknown, Los Angeles,502,621
+ Los Angeles,California FAIR Plan Association,Statistical Analyst,Unknown, Los Angeles,523,645
+ Los Angeles,UnionBank,"Data Insights Analyst, Assistant Vice President",Unknown, Los Angeles,524,646
+ Los Angeles,Confidental Company,Consultant II (Business Intelligence Analyst),Unknown, Los Angeles,525,647
+"Newport Beach, CA",Lyceum Dynamics,Data Analyst,$40 - $50 an hour,Newport Beach,530,652
+ Los Angeles,Impactful Resources,Senior Business Analyst,Unknown, Los Angeles,536,658
+ Los Angeles,"Beckman Coulter, Inc.",Analyst II-Materials and Planning,Unknown, Los Angeles,546,669
+ Los Angeles,TRENCH PLATE RENTAL CO,Inofor Business Analyst,Unknown, Los Angeles,547,670
+ Los Angeles,Uline,Business Analyst,Unknown, Los Angeles,564,689
+"Newport Beach, CA",Osborne Homes,Data (Fp&a) Analyst,"$80,000 - $100,000 a year",Newport Beach,570,696
+ Los Angeles,"Dot818, LLC",Data & Analytics Services Sales Manager,Unknown, Los Angeles,573,700
+ Los Angeles,Lanic Aerospace,Cost Analyst,$28 - $34 an hour, Los Angeles,574,701
+"Newport Beach, CA 92660","Harvey & Company, LLC",Junior Analyst,$17 an hour,Newport Beach,580,707
+ Los Angeles,ELECTRO RENT CORPORATION,Collections Analyst,"$52,000 - $60,000 a year", Los Angeles,581,708
+ Los Angeles,"U.S. Auto Parts Network, Inc",Marketing Analyst,Unknown, Los Angeles,582,709
+ Los Angeles,Catasys,HR Analyst / Project Manager,Unknown, Los Angeles,583,710
+ Los Angeles,Pasadena City College,Programmer Analyst,Unknown, Los Angeles,584,711
+ Los Angeles,"Satori Technology, LLC",Senior Developer - Azure Data Warehousing / DAX / Integrations,"$85,000 - $150,000 a year", Los Angeles,585,712
+ Los Angeles,Masimo,Senior Tax Analyst,Unknown, Los Angeles,586,713
+ Los Angeles,Mr. Bult's Inc.,Data Analyst/Billing Coordinator,Unknown, Los Angeles,591,718
+ Los Angeles,Medical Home Network,Senior Healthcare Data Analyst,Unknown, Los Angeles,592,719
+ Los Angeles,Headquarter office for global distribution giant,"Data Entry Excel Specialist $37,000 Naperville Area",$17 - $19 an hour, Los Angeles,609,740
+ Los Angeles,ULINE,Sales Analyst,Unknown, Los Angeles,620,755
+ Los Angeles,"CorTech, LLC",Systems Analyst - Master Data Analyst,$39.37 an hour, Los Angeles,621,756
+ Los Angeles,ULINE,Junior Report Analyst,Unknown, Los Angeles,620,763
+ Los Angeles,Ulta Beauty,Ecommerce Transportation Analyst,Unknown, Los Angeles,628,764
+ Los Angeles,"Lionshead Specialty Tire & Wheel, LLC",Purchasing Analyst,Unknown, Los Angeles,629,765
+ Los Angeles,CoinFlip,Data Entry,"$30,000 - $35,000 a year", Los Angeles,630,766
+ Los Angeles,"Spruce Services, Inc",Data Engineer,"$95,000 - $120,000 a year", Los Angeles,669,807
+ Los Angeles,OneAuth,Senior Data Architect,$80 - $90 an hour, Los Angeles,670,808
+ Los Angeles,Personal Household,Attorney - Research & Analyst Position,"$70,000 - $150,000 a year", Los Angeles,671,809
+"Austin, TX 78754",GasPedal,Leading Data-Driven Change -- Data Industry Analyst,Unknown,Austin,672,810
+"Austin, TX 78716",UnitedHealth Group,Principle Data Analyst,Unknown,Austin,326,811
+"Austin, TX 78754",GasPedal,Industry Analyst -- Data Science and Strategy,Unknown,Austin,672,812
+"Austin, TX",ARK Solutions,Junior Data Analyst/Data Entry/Federal Data Entry,Unknown,Austin,673,813
+"Austin, TX 78754",Health & Human Services Comm,Data Analyst,"$4,023 - $6,579 a month",Austin,674,814
+"Austin, TX 78751 (Triangle State area)",Dept of Family & Protectve Svc,Data Analyst,"$4,599 - $6,400 a month",Austin,675,815
+"Austin, TX 78702 (Central East Austin area)","Spruce Services, Inc",Data Engineer,"$95,000 - $120,000 a year",Austin,669,816
+"Austin, TX",Facebook,"Data Analyst, Law Enforcement Response Team",Unknown,Austin,260,817
+"Austin, TX (East Oak Hill area)",Health & Human Services Comm,Junior Data Analyst,"$3,293 - $5,371 a month",Austin,674,818
+ Los Angeles,Teacher Retirement System of Texas,Business Intelligence and Data Analyst,Unknown, Los Angeles,676,819
+ Los Angeles,Sellers Shield,Data Analyst,Unknown, Los Angeles,677,820
+"Austin, TX 78744 (Southeast area)",OFFICE OF INJURED EMPLOYEE COUNSEL,OIEC - Data Reporting Analyst (Prog Spec II),"$4,167 a month",Austin,678,821
+"Austin, TX",MVPindex,"Associate Insights Analyst, Marketing",Unknown,Austin,679,822
+"Austin, TX",SubjectWell,Data Scientist,Unknown,Austin,680,823
+"Austin, TX 78746",Sellers Shield,Data Analyst,Unknown,Austin,677,824
+"Austin, TX",Apple,Product Insights Analyst,Unknown,Austin,681,825
+"Austin, TX",132 ENG Inc.,Data Analyst,Unknown,Austin,77,826
+"Austin, TX","Advanced Micro Devices, Inc.",Business Analyst - 79396,Unknown,Austin,682,827
+"Austin, TX",Fusion Technical Solutions,Associate Business Analyst,Unknown,Austin,683,828
+"Austin, TX 78759 (North Burnett area)",TransPerfect,TransPerfect is recruiting professionals for an immediate short term Data entry/Redaction project.,$26 an hour,Austin,297,829
+"Austin, TX",Zynga,Data Analyst,Unknown,Austin,684,830
+"Austin, TX",TaskRabbit,"Data Analyst, Trust & Safety",Unknown,Austin,685,831
+"Austin, TX",Hagerty Consulting,Data Analyst,Unknown,Austin,568,832
+"Austin, TX",Healthgrades,Data Quality Analyst,Unknown,Austin,686,833
+"Austin, TX 78717",Cigna,Financial Analysis Analyst,Unknown,Austin,687,834
+"Austin, TX",Facebook,Supplier Enablement Analyst - Procure-to-Pay,Unknown,Austin,260,835
+"Austin, TX 78746",Alliant Insurance Services,Benefits Analyst I,Unknown,Austin,688,836
+"Austin, TX 78712 (University of Texas area)",University of Texas at Austin,Football Analyst,Unknown,Austin,689,837
+"Austin, TX 78729",Q2ebanking,Data Migration Analyst,Unknown,Austin,690,838
+"Austin, TX",Facebook,Sourcing Analyst,Unknown,Austin,260,839
+"Austin, TX 73301 (St Edwards area)",Softvision - North America,Technical Business Analyst,Unknown,Austin,691,840
+"Austin, TX 78749 (East Oak Hill area)",Texas Windstorm Insurance Association,QA Analyst - Data Warehouse,Unknown,Austin,693,842
+"Austin, TX",Facebook,Employment Law & Investigations Analyst,Unknown,Austin,260,843
+"Austin, TX",Ascension Technologies,Clinical Data Management - Technical Analyst,Unknown,Austin,694,844
+"Austin, TX",Healthgrades,Senior Claims Data Analyst,Unknown,Austin,686,846
+"Austin, TX 78759 (Arboretum area)",Forcepoint,Business Analyst,Unknown,Austin,696,847
+"Austin, TX 78702 (Rosewood area)",Show Me Leads,Marketing Data Analyst,Unknown,Austin,650,848
+"Austin, TX 78701 (Downtown area)",TEXAS EDUCATION AGENCY,TSDS Data QA Analyst (Data Analyst IV),"$4,917 - $6,667 a month",Austin,697,849
+"Austin, TX 78701 (Downtown area)",Buc-ee's Ltd,"Category Analyst - Pkg Beverages/Non-Alcohol GREAT PAY! GREAT BENEFITS! AUSTIN, TX OPPORTUNITY!",Unknown,Austin,699,851
+"Austin, TX 78702 (Upper Boggy Creek area)",United Way for Greater Austin,Data Management Intern (unpaid),Unknown,Austin,702,855
+"Austin, TX 78731",Iris Plans Inc.,Senior Data Analyst,Unknown,Austin,703,856
+"Austin, TX 78746",BazaarVoice,Client Success Operations Analyst,Unknown,Austin,704,857
+"Austin, TX 78701 (Downtown area)",TEXAS EDUCATION AGENCY,"Associate, Strategy and Operations (Data Analyst IV)","$4,917 - $6,489 a month",Austin,697,859
+"Austin, TX",HORNE LLP,Data Analyst,Unknown,Austin,706,860
+"Austin, TX",Ascension Technologies,Technical Data Analyst,Unknown,Austin,694,861
+"Austin, TX 78701 (Downtown area)",Texas Department of Transportation,Strategic Data Analyst III - Strategic Planning Divsion,"$59,004 - $96,720 a year",Austin,707,862
+"Austin, TX 78750",Baylor Scott & White Health,Business Analyst - SWHP,Unknown,Austin,708,863
+"Austin, TX",B.well Connected Health,Payment Integrity Data Analyst,Unknown,Austin,709,864
+ Los Angeles,Texas Association of Counties,Financial Analyst,Unknown, Los Angeles,710,865
+ Los Angeles,OneAuth,Technical Business Analyst - Workday HCM,$60 - $70 an hour, Los Angeles,670,866
+"Austin, TX 78751 (Triangle State area)",Health & Human Services Comm,Business Analyst III,"$4,917 - $8,060 a month",Austin,674,868
+"Austin, TX 78758 (North Burnett area)",Central Health,Business Intelligence Manager,Unknown,Austin,712,869
+"Austin, TX",HORNE LLP,Business Analyst,Unknown,Austin,706,870
+"Austin, TX",eBay Inc.,Investments Treasury Analyst,Unknown,Austin,714,872
+"Austin, TX 78731",Indeed,International Product Analyst- Canada,"$56,000 - $72,000 a year",Austin,715,873
+"Austin, TX 78731",Indeed,International Product Analyst- France,"$56,000 - $72,000 a year",Austin,715,874
+"Austin, TX",General Dynamics Information Technology,Sr. Business Analyst,Unknown,Austin,716,875
+"Austin, TX",LPL Financial,Sr Business Analyst,Unknown,Austin,717,876
+"Austin, TX",Pinkus Partners,Business Analyst,Unknown,Austin,718,877
+"Austin, TX 78731 (Rosedale area)",Texas Department of Transportation,Transportation Program Division Business Analyst II,"$51,614 - $84,479 a year",Austin,707,880
+"Austin, TX 78759 (North Shoal Creek area)",UFCU,Senior Business Analyst,Unknown,Austin,721,881
+"Austin, TX",Apple,"Senior Data Analyst, Ad Platforms",Unknown,Austin,681,883
+"Austin, TX 78759 (North Shoal Creek area)",UFCU,Data Warehouse Analyst,Unknown,Austin,721,884
+"Austin, TX",Booz Allen Hamilton,"Data Analyst, Lead",Unknown,Austin,723,885
+"Austin, TX 78757 (North Shoal Creek area)",Pain Specialist of America LLC,Healthcare Analyst,Unknown,Austin,724,886
+"Austin, TX","Ishpi Information Technologies, Inc",Junior Data Warehouse Analyst,Unknown,Austin,725,887
+"Austin, TX",Tek9 Solutions,Business Analyst,Unknown,Austin,727,889
+"Austin, TX 78701 (Downtown area)",Travis County,Business Analyst III,"$72,862 - $85,987 a year",Austin,728,890
+"Austin, TX",US Department of Veterans Affairs,Program Analyst,"$92,977 - $120,874 a year",Austin,383,891
+ Los Angeles,"Universal Screen Arts, Inc.",Business & Liquidation Analyst,"$40,000 - $60,000 a year", Los Angeles,729,892
+ Los Angeles,ITI Data,Ab Initio Data Engineer,Unknown, Los Angeles,730,893
+ Los Angeles,PNC Financial Services Group,Portfolio Analytics & Strategy Analyst Sr -. Loan Loss Reserve. -,Unknown, Los Angeles,731,894
+"Washington, PA 15301",County of Washington,Data Analyst II,$17.88 an hour,Washington,733,896
+ Los Angeles,"BCHH, Inc.",Escrow Accounting Analyst,Unknown, Los Angeles,741,905
+ Los Angeles,"BSI Financial Services, Inc",Credit Reporting Analyst,$13 an hour, Los Angeles,742,906
+ Los Angeles,PNC Financial Services Group,PrtfolioAnl&Stra Analyst Sr,Unknown, Los Angeles,731,917
+ Los Angeles,"YinzCam, Inc.",Senior Data Analyst,Unknown, Los Angeles,737,918
+ Los Angeles,PNC Financial Services Group,Business Analysis Manager-IT,Unknown, Los Angeles,731,929
+ Los Angeles,PNC Financial Services Group,Detection & Investigation Analyst Sr. - Zelle Fraud,Unknown, Los Angeles,731,950
+ Los Angeles,Starr and Associates,Data Analyst,"$80,000 - $106,242 a year", Los Angeles,779,974
+ Los Angeles,Confidential - Structured Asset Finance,Data Analyst,Unknown, Los Angeles,780,975
+ Los Angeles,Search America,Sr. Credit Analyst,"$80,000 - $100,000 a year", Los Angeles,781,976
+ Los Angeles,Altium Packaging,Freight Accounting Analyst,Unknown, Los Angeles,782,977
+"Alpharetta, GA",Jernel Technology Corporation,Full-time job opportunity for Data Analyst with Immigration Support,"$55,000 - $60,000 a year",Alpharetta,784,981
+ Los Angeles,Uline,Operations Analyst,Unknown, Los Angeles,564,988
+ Los Angeles,"Project Verte, Inc.",Business Analyst,"$65,000 - $75,000 a year", Los Angeles,791,989
+"Alpharetta, GA 30005",Mediacurrent,Digital Analyst (US-based telecommute position),Unknown,Alpharetta,795,994
+"Alpharetta, GA",Clarity USA,Data Analyst,Unknown,Alpharetta,796,996
+ Los Angeles,Distribution Cooperative Inc,Inventory Control Analyst,Unknown, Los Angeles,806,1010
+ Los Angeles,Clear Nexus Inc,Credit Risk Analyst,"$35,000 - $50,000 a year", Los Angeles,810,1016
+ Los Angeles,Cloudious LLC,Data security Voltage Architect,Unknown, Los Angeles,816,1023
+ Los Angeles,Tolteca Foodservice,Operations Analyst,Unknown, Los Angeles,817,1024
+"Alpharetta, GA 30004","Perficient, Inc",Business Analyst,Unknown,Alpharetta,830,1039
+"Alpharetta, GA","Fiserv, Inc.",Financial Analyst,Unknown,Alpharetta,831,1040
+ Los Angeles,Anthem,Actuarial Analyst III (Cost of Care) - PS33739,"$77,280 - $115,920 a year", Los Angeles,839,1050
+ Los Angeles,Ross Technology,IT Data Analyst,"$65,000 - $75,000 a year", Los Angeles,840,1051
+ Los Angeles,Cambridge Solutions,Non-IT Pharmaceutical Business Analyst,$20 - $35 an hour, Los Angeles,841,1052
+ Los Angeles,Wells Fargo Bank,Analytic Consultant 4,Unknown, Los Angeles,842,1053
+ Los Angeles,Visual Connections LLC,Data Analyst I (Jr),"$52,000 - $55,000 a year", Los Angeles,850,1064
+ Los Angeles,"Renaissance Associates, Ltd.",Intelligence Analyst,"$50,000 - $100,000 a year", Los Angeles,851,1065
+ Los Angeles,FOCO,Sales Operations Analyst - Entry Level,Unknown, Los Angeles,861,1076
+ Los Angeles,IKEA,Customer Engagement & Loyalty Analyst,Unknown, Los Angeles,862,1077
+ Los Angeles,Touch of Color Flooring,Work Order Analyst,Unknown, Los Angeles,863,1078
+ Los Angeles,Auxilior Capital Partners,Senior Credit Analyst,"$65,000 - $75,000 a year", Los Angeles,864,1079
+ Los Angeles,VIRTUA,Investigation Data Analyst - Privacy / HIPAA exp. required,Unknown, Los Angeles,883,1100
+ Los Angeles,Unity Technologies Corporation,Functional / Business Analyst,Unknown, Los Angeles,884,1101
+ Los Angeles,CIMI Behavior Analytic Solutions,Board Certified Behavior Analyst (BCBA),"$50,000 - $60,000 a year", Los Angeles,885,1102
+ Los Angeles,IEH Laboratories,"Laboratory Analyst - Night Shift (Bloomsburg, PA)",Unknown, Los Angeles,377,1115
+ Los Angeles,Community Development Corp of Long Island,Data Analyst,$22 - $35 an hour, Los Angeles,902,1126
+ Los Angeles,utiliVisor,Billing Analyst,Unknown, Los Angeles,903,1127
+ Los Angeles,BrightFarms,Financial Analyst,"$60,000 - $80,000 a year", Los Angeles,904,1128
+ Los Angeles,Fordham University,Senior Systems Analyst,Unknown, Los Angeles,905,1129
+ Los Angeles,Marathon Energy Corporation,Energy Analyst,Unknown, Los Angeles,906,1130
+ Los Angeles,Marathon Energy Corporation,"Energy Analyst (Syracuse or Buffalo, NY)",Unknown, Los Angeles,906,1131
+ Los Angeles,Confidential - AML Analyst,AML Analyst,$50 an hour, Los Angeles,907,1132
+ Los Angeles,"Paulson Investment Company, LLC",Investment Banking Analyst (Life Science),"$40,000 - $90,000 a year", Los Angeles,913,1138
+ Los Angeles,Well Woven Inc.,Procurement Analyst,Unknown, Los Angeles,919,1144
+ Los Angeles,"Golden Krust Franchising, Inc.",Supply Chain Analyst,"$60,000 - $70,000 a year", Los Angeles,920,1145
+ Los Angeles,Mavis Discount Tire,Senior Marketing Specialist Data & Analytics,Unknown, Los Angeles,934,1161
+ Los Angeles,Olean Area Federal Credit Union,Security Analyst,Unknown, Los Angeles,935,1162
+ Los Angeles,Mphasis,Contractor,Unknown, Los Angeles,943,1173
+ Los Angeles,Mphasis,Data Science Specialist USA,Unknown, Los Angeles,943,1184
+ Los Angeles,Hirsch Law Group,Court Records Researcher/Data Miner - (Chicago),$15 an hour, Los Angeles,962,1195
+ Los Angeles,Society for Vascular Surgery,Statistician (part-time),Unknown, Los Angeles,963,1196
+ Los Angeles,i-Pharm Consulting,"Sr. Statistical Programmer - (100% REMOTE) - Excellent Pay, Benefits, PTO!","$115,000 - $140,000 a year", Los Angeles,964,1197
+ Los Angeles,"Perceptronics Solutions, Inc",AI/Machine Learning Research Scientist,Unknown, Los Angeles,987,1224
+ Los Angeles,Genius Sports Media,Sports Statistician,Unknown, Los Angeles,994,1235
+ Los Angeles,Noom Inc.,Senior Data Scientist (Remote-friendly),Unknown, Los Angeles,1014,1270
+ Los Angeles,North America Service Center for Chinese Students/纽约留学生网美窝房产部,房产咨询顾问/Real Estate Consultant/ Real Estate Sales/ Analyst/Intern/Full time,"$80,000 - $150,000 a year", Los Angeles,1015,1271
+ Los Angeles,Catasys,Senior AI Engineer,"$110,000 - $160,000 a year", Los Angeles,583,1303
+ Los Angeles,Grow Recruiting,"Sr. Staff Software Engineer (A.I. + Search, JVM/Spring Boot)","$170,000 - $200,000 a year", Los Angeles,1045,1323
+ Los Angeles,Capital One,"Senior Manager, Data Engineering",Unknown, Los Angeles,1046,1324
+"Redmond, WA",Microsoft,Full Time Opportunities for Students or Recent Graduates: Data & Applied Sciences,Unknown,Redmond,348,1338
+"Redmond, WA",Microsoft,SR. Data & Applied Scientist,Unknown,Redmond,348,1355
+ Los Angeles,Québec Immigration Office,Senior Machine Learning Developer (visa sponsorship for Canada),$55 - $67 an hour, Los Angeles,1068,1360
+"Redmond, WA",Microsoft,Senior Data Scientist,Unknown,Redmond,348,1365
+"Redmond, WA",Microsoft,Applied Scientist,Unknown,Redmond,348,1367
+"Redmond, WA",Microsoft,Content Developer - Data & AI,Unknown,Redmond,348,1373
+ Los Angeles,Talent Acquisition Québec,AI Full Stack Developer at IBM (Visa Sponsorship for Canada),Unknown, Los Angeles,1076,1380
+"Redmond, WA",Facebook,"Research Scientist, Machine Learning (PhD)",Unknown,Redmond,260,1391
+"Redmond, WA 98052",Inabia Solutions and Consulting,Program Manager/ Data Scientist,Unknown,Redmond,1084,1396
+"Redmond, WA",Microsoft,Principal Data & Applied Scientist,Unknown,Redmond,348,1399
+ Los Angeles,The American College of Radiology,Clinical Data Manager,Unknown, Los Angeles,1085,1403
+ Los Angeles,IQVIA,Associate Dir- Machine Learning,Unknown, Los Angeles,1093,1413
+ Los Angeles,Wells Fargo,Sr. Data Scientist (Cap Mkts-Apps Sys Eng 3),Unknown, Los Angeles,1096,1418
+ Los Angeles,CSL Behring,Senior Statistical Programmer.,Unknown, Los Angeles,1107,1432
+"Denver, CO 80202 (Lodo area)",Evolve Vacation Rental,Sr. Data Scientist,Unknown,Denver,1124,1455
+"Denver, CO 80202 (Union Station area)",McKinsey & Company,"Data Scientist, Agriculture and Commodities",Unknown,Denver,124,1456
+"Denver, CO",LogistiCare,Data Scientist- NLP,Unknown,Denver,1125,1457
+"Denver, CO",VF Corporation,Senior Data Scientist,Unknown,Denver,1126,1458
+"Denver, CO 80238",Frontdoor,Data Scientist,Unknown,Denver,1127,1459
+"Denver, CO 80202 (Central Business District area)",Decentrix,DATA SCIENTIST,Unknown,Denver,1128,1460
+ Los Angeles,SPECTRUM,Principal Data Scientist,Unknown, Los Angeles,2,1461
+"Denver, CO",GutCheck,Senior Data Scientist,Unknown,Denver,1132,1465
+"Denver, CO 80237 (Hampden South area)","Amazon Web Services, Inc.",Data Scientist - Nationwide Opportunities,Unknown,Denver,374,1466
+"Denver, CO 80202 (Lodo area)",Comcast,"Eng 3, Machine Learning",Unknown,Denver,7,1470
+"Denver, CO",ICR,Data Scientist,Unknown,Denver,1135,1474
+"Denver, CO 80202 (Central Business District area)",Ibotta,Senior Decision Scientist - Product,Unknown,Denver,30,1476
+ Los Angeles,SPECTRUM,Principal Operations Scientist,Unknown, Los Angeles,2,1481
+"Denver, CO",Twilio,"Senior BI Analyst, Analytics/Data Science",Unknown,Denver,1140,1482
+"Denver, CO",Deloitte,Sales Executive - Data in Motion,Unknown,Denver,1144,1486
+"Denver, CO",Twilio,"Senior Data Analyst, Sales Compensation",Unknown,Denver,1140,1494
+"Denver, CO 80202 (Central Business District area)",Ibotta,Manager of Machine Learning,Unknown,Denver,30,1498
+"Denver, CO",Deloitte,Sales Executive – Artificial Intelligence Managed Services,Unknown,Denver,1144,1501
+"Denver, CO",Deloitte,Sales Executive - Conversational AI – Artificial Intelligence Insights & Engagement,Unknown,Denver,1144,1507
+"Denver, CO",TuSimple,C++ Software Engineer - Autonomous Vehicle A.I. Benchmark & Performance (San Diego),Unknown,Denver,1157,1508
+"Denver, CO",CoreSite,"Data Analyst - Denver, CO",Unknown,Denver,1159,1511
+ Los Angeles,UnionBank,"Data Scientist, Assistant Vice President",Unknown, Los Angeles,524,1539
+"Newport Beach, CA",FrescoData,Senior Data Analysts,Unknown,Newport Beach,1186,1550
+ Los Angeles,ArchieMD,"Senior Artificial Intelligence, Machine Learning Software Engineer",Unknown, Los Angeles,1202,1577
+"Alpharetta, GA",Quest America,Data Scientist,$65 - $70 an hour,Alpharetta,1206,1582
+ Los Angeles,KARNA,Statistical Programmer II,Unknown, Los Angeles,1208,1587
+"Alpharetta, GA",RELX Group,Senior Data Scientist,Unknown,Alpharetta,1216,1602
+"Alpharetta, GA",Brielle Technologies,Data Scientists – Machine Learning,$60 - $70 an hour,Alpharetta,1217,1603
+"Alpharetta, GA",RELX Group,Statistical Data Analyst,Unknown,Alpharetta,1216,1604
+"Alpharetta, GA 30022",Nam Technologies,Senior Data Analyst,Unknown,Alpharetta,1235,1632
+ Los Angeles,USAA,Director Data Scientist - Data Science Hub,Unknown, Los Angeles,13,1644
+ Los Angeles,Humana,"Associate Director, Data Science",Unknown, Los Angeles,1259,1673
+ Los Angeles,Software Engineering Institute,Machine Learning Research Scientist,Unknown, Los Angeles,1283,1729
+ Los Angeles,Software Engineering Institute,Senior Research Scientist-Machine Learning,Unknown, Los Angeles,1283,1749
+ Los Angeles,Soaren Management,Data Scientist,Unknown, Los Angeles,1294,1766
+ Los Angeles,Wells Fargo Bank,Apps Systems Engineer 5/ Chabot NLP Engineer,Unknown, Los Angeles,842,1800
+ Los Angeles,Wells Fargo Bank,Apps Systems Engineer 5 - Data Reporting Lead,Unknown, Los Angeles,842,1801
+"Alvin, TX","RiceTec, Inc.",Data Scientist - Production Research,Unknown,Alvin,1313,1808
+"Austin, TX 78701 (Downtown area)",Cloudflare,Data Scientist,Unknown,Austin,1348,1872
+"Austin, TX (Downtown area)",Google,"Data Scientist Consultant, Cloud Support Data and Analytics",Unknown,Austin,397,1873
+"Austin, TX",Sasquatch Talent,Data Scientist-NLP,"$115,000 - $135,000 a year",Austin,1349,1874
+"Austin, TX 78712 (University of Texas area)",University of Texas at Austin,Remote Sensing Data Scientist,Unknown,Austin,689,1875
+"Austin, TX",FEDDATA,Data Scientist,Unknown,Austin,1350,1876
+"Austin, TX",Facebook,"Data Scientist, Product Analytics",Unknown,Austin,260,1877
+"Austin, TX",ARDOR IT SOLUTIONS,Senior Data Scientist,"$115,561 - $180,385 a year",Austin,1351,1878
+"Austin, TX 73301 (St Edwards area)",Thrivent Financial,Data Scientist (remote),Unknown,Austin,967,1879
+"Austin, TX",Thrivent,Data Scientist (remote),Unknown,Austin,968,1880
+"Austin, TX",Lightspeed Systems,Data Scientist,Unknown,Austin,1352,1881
+"Austin, TX 78712 (University of Texas area)",University of Texas at Austin,Cybersecurity Data Scientist,Unknown,Austin,689,1883
+"Austin, TX",Cerebri AI,Data Scientist,Unknown,Austin,1354,1884
+"Austin, TX",Facebook,"Recruiting Manager, Data Science",Unknown,Austin,260,1887
+"Austin, TX 78701 (Downtown area)",Cloudflare,Senior Data Analyst,Unknown,Austin,1348,1888
+"Austin, TX",Deloitte,"Data Scientist Active Secret Clearance - Austin, TX",Unknown,Austin,1144,1889
+"Austin, TX",Natera,"Medical Lab Scientist I, Data Reviewer",Unknown,Austin,1357,1890
+ Los Angeles,USAA,"Director, Enterprise Capital Modeling",Unknown, Los Angeles,13,1891
+"Austin, TX 78758 (North Austin area)",Hotels.com,Senior Data Scientist,Unknown,Austin,1358,1892
+"Austin, TX",eBay Inc.,Data Scientist,Unknown,Austin,714,1894
+"Austin, TX 78746",Bridgefront Capital,Quantitative Researcher,Unknown,Austin,1359,1895
+"Austin, TX 78712 (University of Texas area)",University of Texas at Austin,Geospatial Software Developer and Data Scientist,Unknown,Austin,689,1896
+"Austin, TX",Apple,Machine Learning Scientist,Unknown,Austin,681,1897
+"Austin, TX",DRW Trading Group,Quantitative Researcher,Unknown,Austin,1361,1899
+"Austin, TX",One Model,Data Science Engineer,Unknown,Austin,1362,1900
+"Austin, TX 78758 (North Burnett area)","Amazon Web Services, Inc.",Senior Data Scientist - Nationwide Opportunities,Unknown,Austin,374,1901
+"Austin, TX",Axiom Group,Artificial Intelligence Engineer,"$250,000 - $400,000 a year",Austin,998,1902
+"Austin, TX 78705 (Hancock - West Campus area)",Valkyrie Intelligence,Senior Data Science Engineer,"$100,000 - $125,000 a year",Austin,1363,1903
+"Austin, TX",Apple,Digital Analytics and Data Science Manager,Unknown,Austin,681,1904
+"Austin, TX",Facebook,North America Market Specialist,Unknown,Austin,260,1906
+"Austin, TX",Zynga,Lead Data Scientist,Unknown,Austin,684,1908
+"Austin, TX 78759 (Arboretum area)",CognitiveScale,Applied Machine Learning Scientist,Unknown,Austin,1365,1909
+"Austin, TX",Apple,"Content Data Scientist, Apple Media Products Data Science",Unknown,Austin,681,1910
+"Austin, TX 73344",IBM,Quantum Principal Data Scientist- Industrial Discrete Sector Industry,Unknown,Austin,1021,1911
+ Los Angeles,USAA,Modeling Analytics Executive (P&C),Unknown, Los Angeles,13,1912
+"Austin, TX 78701 (Downtown area)",Cloudflare,Data Scientist - Domain Intelligence & Client Security,Unknown,Austin,1348,1913
+"Austin, TX 78701 (Downtown area)",Employees Retirement System of Texas,Data Steward (1255),Unknown,Austin,1366,1914
+"Austin, TX 73301 (St Edwards area)",Nomi Health,Data Science Architect,Unknown,Austin,1367,1915
+"Austin, TX 78731",Iodine Software,Data Pipeline Engineer,Unknown,Austin,1368,1916
+"Austin, TX 78712 (University of Texas area)",University of Texas at Austin,Machine Learning/Computer Vision Engineering Scientist,Unknown,Austin,689,1918
+"Austin, TX 78758 (North Burnett area)","Amazon Web Services, Inc.",Business Analyst,Unknown,Austin,374,1919
+"Austin, TX",LPL Financial,"AVP, Big Data and Machine Learning Solutions Architect",Unknown,Austin,717,1922
+"Austin, TX 78746",Intel,AI SW Solutions/ ML OPS Engineer,Unknown,Austin,1307,1923
+"Austin, TX",Enview,Machine Learning Engineer,Unknown,Austin,1372,1924
+"Austin, TX 78712 (University of Texas area)",University of Texas at Austin,Machine Learning/Computer Vision Engineering Associate,Unknown,Austin,689,1926
+"Austin, TX 78746",Intel,Senior Systems and Data Center Architect,Unknown,Austin,1307,1927
+"Austin, TX",Oracle,Security Operations Center Analyst Intern - Diversity Programs,$25 an hour,Austin,1067,1928
+"Austin, TX 78712 (University of Texas area)",University of Texas at Austin,R&D Data Analysis and Machine Learning Software Engineering Associate,Unknown,Austin,689,1929
+"Austin, TX",Apple,Platform Software Engineer - Machine Learning / Data Pipelines,Unknown,Austin,681,1930
+"Austin, TX",Deloitte,Lead Data Scientist – Secret Clearance Required,Unknown,Austin,1144,1931
+"Austin, TX 78731",Iodine Software,NLP Engineer,Unknown,Austin,1368,1932
+"Austin, TX 78730",SailPoint,"Software Engineer, Machine Learning",Unknown,Austin,1374,1933
+"Austin, TX",Facebook,"Visiting Researcher, Artificial Intelligence (PhD)",Unknown,Austin,260,1934
+"Austin, TX 78758 (North Burnett area)",SAIC,Chief Data Engineer - Army Futures Command,Unknown,Austin,1376,1936
+"Austin, TX 78704 (South Lamar-South Congress area)",Granify,Account Manager - E-Commerce Machine Learning,Unknown,Austin,1377,1937
+ Los Angeles,ConMet,Data Scientist (Automotive / IoT Connected Products),Unknown, Los Angeles,1378,1938
+ Los Angeles,Global Fishing Watch,Data Scientist,$45 - $65 an hour, Los Angeles,1392,1961
+ Los Angeles,BICP,Senior Data Scientist,"$160,000 - $180,000 a year", Los Angeles,429,1962
+ Los Angeles,BICP,"Data Engineer, Machine Learning","$150,000 - $160,000 a year", Los Angeles,429,1963
+ Los Angeles,Pacific Data Integrators,Data Scientist (Palantir Foundry),Unknown, Los Angeles,1398,1972
+ Los Angeles,Intuit,Senior Business Data Analyst,Unknown, Los Angeles,207,1983
+ Los Angeles,John Deere,Principal Data Scientist (Remote Availability),Unknown, Los Angeles,1406,1984
+ Los Angeles,ServiceNow,Staff Machine Learning Engineer,Unknown, Los Angeles,259,2003
+ Los Angeles,MUFG,Data Science Engineering Lead,Unknown, Los Angeles,274,2024
